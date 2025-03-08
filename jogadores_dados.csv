@@ -1,0 +1,713 @@
+PlayerId,CurrentTeamId,Nome,Time Atual,Data Nascimento,Nacionalidade,Posições
+110154,1237,Memphis Depay,Corinthians,13-02-1994,Países Baixos,"['Meia Atacante (C', ' Esquerdo)', ' Atacante']"
+432685,1237,Rodrigo Garro,Corinthians,04-01-1998,Argentina,['Meia Atacante (C)']
+348261,1237,Yuri Alberto,Corinthians,18-03-2001,Brasil,"['Meia Atacante (Esquerdo)', ' Atacante']"
+468006,1237,Matheus Bidu,Corinthians,04-05-1999,,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+442459,174,Carlos Miguel,Nottingham Forest,09-10-1998,Brasil,['Goleiro']
+399247,1237,Hugo Souza,Corinthians,31-01-1999,Brasil,['Goleiro']
+439650,1237,Wesley,Corinthians,05-03-2005,,['Meia Atacante (Esquerdo)']
+98101,1237,André Ramalho,Corinthians,16-02-1992,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+420319,1237,Raniele,Corinthians,31-12-1996,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+398130,1237,Matheus França,Corinthians,08-09-2000,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+361471,1237,Cacá,Corinthians,25-04-1999,Brasil,['Zagueiro (MCDireito)']
+436560,1237,Hugo,Corinthians,29-08-1997,,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+228061,1237,Ángel Romero,Corinthians,04-07-1992,Paraguai,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+97635,1237,André Carrillo,Corinthians,14-06-1991,Peru,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+406274,994,Raul Gustavo,Ferencvaros,24-04-1999,,['Zagueiro (MCDireito)']
+114595,1237,Gustavo Henrique,Corinthians,24-03-1993,Brasil,['Zagueiro (MCDireito)']
+375861,1237,Talles Magno,Corinthians,26-06-2002,Brasil,"['Meia Atacante (C', ' Esquerdo)', ' Atacante']"
+321849,1237,Charles,Corinthians,19-06-1996,Brasil,['Meiocampista Defensivo']
+101395,1237,Igor Coronado,Corinthians,18-08-1992,Brasil,['Meia Atacante (C)']
+417722,1237,Félix Torres,Corinthians,11-01-1997,Equador,['Zagueiro (MCDireito)']
+40345,1230,Cássio,Cruzeiro,06-06-1987,Brasil,['Goleiro']
+441410,1237,Breno Bidon,Corinthians,20-02-2005,Brasil,['Meiocampista Defensivo']
+137129,1237,Alex Santana,Corinthians,13-05-1995,Brasil,['Meio Campo (MC)']
+102166,1237,Fágner,Corinthians,11-06-1989,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+409627,1237,Matheus Donelli,Corinthians,17-05-2002,Brasil,['Goleiro']
+471633,1237,Ryan Gustavo,Corinthians,15-07-2003,,['Meio Campo (MC)']
+393097,1237,José Martínez,Corinthians,07-08-1994,,['Meiocampista Defensivo']
+331611,1238,Gustavo Silva,Vitoria,07-09-1997,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+110424,1237,Pedro Henrique,Corinthians,16-06-1990,Brasil,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+478349,950,Gabriel Moscardo,Reims,28-09-2005,Brasil,['Meiocampista Defensivo']
+459091,5438,Arthur Sousa,Red Bull Bragantino,12-03-2003,,['Atacante']
+366428,1235,Fausto Vera,Atletico MG,26-03-2000,Argentina,['Meiocampista Defensivo']
+36399,1237,Paulinho,Corinthians,25-07-1988,Brasil,"['Meio Campo (MC', ' MDireito)']"
+436627,1237,Giovane,Corinthians,24-11-2003,,['Atacante']
+478348,1237,João Pedro,Corinthians,31-12-2003,,['Defensor']
+398132,1237,Pedro Raúl,Corinthians,05-11-1996,Brasil,['Atacante']
+478350,1237,Kayke,Corinthians,28-04-2004,,['Atacante']
+364717,1237,Caetano,Corinthians,24-06-1999,Brasil,['Zagueiro (MCDireito)']
+141293,1237,Héctor Hernández,Corinthians,14-09-1995,Espanha,['Atacante']
+441411,1237,Léo Mana,Corinthians,06-04-2004,,['Zagueiro (ZADireito)']
+410869,1237,Matheus Araújo,Corinthians,22-05-2002,Brasil,['Meiocampista']
+317789,1237,Maycon,Corinthians,15-07-1997,Brasil,['Meio Campo (MC)']
+440960,1237,Guilherme Biro,Corinthians,20-04-2004,Brasil,['Meia Atacante (Direito)']
+398130,1237,Matheus França,Corinthians,08-09-2000,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+467987,1221,Gabriel Xavier,Bahia,06-05-2001,Brasil,['Zagueiro (MCDireito)']
+119542,1221,Gilberto,Bahia,07-03-1993,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+397517,1221,Luciano Juba,Bahia,29-08-1999,,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+101467,1221,Éverton Ribeiro,Bahia,10-04-1989,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+134681,1221,Marcos Felipe,Bahia,13-04-1996,Brasil,['Goleiro']
+88112,1221,Santiago Arias,Bahia,13-01-1992,Colômbia,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+342058,1221,Cauly,Bahia,15-09-1995,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+279581,1221,David Duarte,Bahia,24-01-1995,Brasil,['Zagueiro (MCDireito)']
+355659,1221,Jean Lucas,Bahia,22-06-1998,Brasil,['Meio Campo (MC)']
+298449,1221,Thaciano,Bahia,12-05-1995,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+108660,1221,Everaldo,Bahia,05-07-1991,Brasil,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+477777,1221,Luciano Rodríguez,Bahia,16-07-2003,Uruguai,['Atacante']
+74485,1221,Danilo Fernandes,Bahia,03-04-1988,Brasil,['Goleiro']
+337247,1221,Kanu,Bahia,07-03-1997,Brasil,['Zagueiro (MCDireito)']
+356785,1221,Ademir,Bahia,16-02-1995,Brasil,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+416802,296,Biel,Sporting CP,01-04-2001,Brasil,"['Meia Atacante (Esquerdo)', ' Atacante']"
+388735,1221,Caio Alexandre,Bahia,24-02-1999,Brasil,['Meiocampista Defensivo']
+467985,1221,Rezende,Bahia,02-01-1995,,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+343090,23404,Óscar Estupiñán,FC Juarez,29-12-1996,Colômbia,['Atacante']
+296379,1221,Carlos de Pena,Bahia,11-03-1992,Uruguai,"['Meio Campo (MC', ' MEsquerdo)']"
+125957,1221,Víctor Cuesta,Bahia,19-11-1988,Argentina,['Zagueiro (MCDireito)']
+355705,1221,Iago Borduchi,Bahia,23-03-1997,,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+396067,1221,Nicolás Acevedo,Bahia,14-04-1999,Uruguai,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+417913,1221,Adriel,Bahia,14-01-2001,,['Goleiro']
+136727,1221,Rafael Ratão,Bahia,30-11-1995,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+532977,1221,Tiago,Bahia,08-04-2005,,['Atacante']
+110440,1221,Cicinho,Bahia,26-12-1988,Bulgária,"['Zagueiro (ZAEsquerdo', ' ZADireito)', ' Meio Campo (MDireito)']"
+534217,1221,Ruan Pablo,Bahia,23-07-2008,Brasil,['Atacante']
+243275,1221,Yago Felipe,Bahia,03-02-1995,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+111227,1221,Vitor Hugo,Bahia,20-05-1991,Brasil,['Zagueiro (MCDireito)']
+436527,1243,Marcos Victor,Athletico Paranaense,26-12-2001,Brasil,['Defensor']
+471644,1226,Lyncon,Vasco da Gama,07-05-2005,,['Defensor']
+303689,1226,Pablo Vegetti,Vasco da Gama,15-10-1988,Argentina,['Atacante']
+373513,1226,Lucas Piton,Vasco da Gama,09-10-2000,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+472121,1226,Gabriel,Vasco da Gama,05-01-2005,,['Atacante']
+416790,1226,Paulo Henrique,Vasco da Gama,25-07-1996,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+416895,1226,Adson,Vasco da Gama,06-10-2000,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+43931,1226,Maicon,Vasco da Gama,14-09-1988,Brasil,['Zagueiro (MCDireito)']
+241049,1226,Léo Jardim,Vasco da Gama,20-03-1995,Brasil,['Goleiro']
+482037,1226,Mateus Carvalho,Vasco da Gama,18-03-2002,,['Meiocampista Defensivo']
+317762,1226,David,Vasco da Gama,17-10-1995,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+40748,1226,Alex Teixeira,Vasco da Gama,06-01-1990,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+149574,1226,Victor Luís,Vasco da Gama,23-06-1993,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo)']"
+373848,1226,João Victor,Vasco da Gama,17-07-1998,Brasil,"['Zagueiro (MCDireito', ' ZADireito)']"
+14058,1226,Dimitri Payet,Vasco da Gama,29-03-1987,França,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+373449,1226,Hugo Moura,Vasco da Gama,03-01-1998,Brasil,['Meiocampista Defensivo']
+137316,1226,Léo,Vasco da Gama,06-03-1996,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)']"
+80767,1226,Philippe Coutinho,Vasco da Gama,12-06-1992,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+388576,1226,José Rodríguez,Vasco da Gama,14-03-1997,Uruguai,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+433514,9449,Emerson Rodríguez,Ludogorets Razgrad,25-08-2000,Colômbia,"['Meia Atacante (Esquerdo', ' Direito)']"
+515816,1226,João Pedro,Vasco da Gama,19-04-2005,,['Meiocampista']
+515814,1226,Guilherme Estrella,Vasco da Gama,22-04-2005,Brasil,['Meiocampista']
+405839,1226,Juan Sforza,Vasco da Gama,14-02-2002,Argentina,['Meiocampista Defensivo']
+337815,1226,Rossi,Vasco da Gama,22-04-1993,,['Meia Atacante (Direito)']
+137484,1226,Jair,Vasco da Gama,26-08-1994,Brasil,['Meiocampista Defensivo']
+515815,1226,Leandrinho,Vasco da Gama,17-03-2005,,['Meiocampista']
+472122,1226,Rayan,Vasco da Gama,03-08-2006,,['Atacante']
+142436,1226,Pablo Galdames,Vasco da Gama,30-12-1996,Chile,['Meio Campo (MC)']
+397505,1243,Praxedes,Athletico Paranaense,08-02-2002,Brasil,['Meio Campo (MC)']
+378588,1236,Zé Gabriel,Coritiba,21-01-1999,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+369266,1226,Robert Rojas,Vasco da Gama,30-04-1996,Paraguai,"['Zagueiro (MCDireito', ' ZADireito)']"
+29390,889,Gary Medel,Boca Juniors,03-08-1987,Chile,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+486855,1226,Maxime Dominguez,Vasco da Gama,01-02-1996,Suíça,"['Meio Campo (MC', ' MDireito)']"
+383997,1226,Paulinho Paula,Vasco da Gama,08-01-1997,,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+468025,9449,Erick Marcus,Ludogorets Razgrad,01-03-2004,,['Meia Atacante (Direito)']
+515817,1226,Bruno Lopes,Vasco da Gama,25-07-2007,,['Atacante']
+417742,1226,Jean Meneses,Vasco da Gama,16-03-1993,Chile,['Meiocampista']
+544692,1226,Maxsuell Alegria,Vasco da Gama,09-01-2004,,['Atacante']
+436559,121,Clayton,Rio Ave,11-01-1999,,['Atacante']
+423092,2066,Serginho,Criciuma,06-04-1995,,"['Meia Atacante (Esquerdo', ' Direito)']"
+40989,1226,Souza,Vasco da Gama,11-02-1989,Brasil,['Meiocampista Defensivo']
+16886,1235,Hulk,Atletico MG,25-07-1986,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+407747,1235,Rubens,Atletico MG,21-06-2001,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+202096,1235,Júnior Alonso,Atletico MG,09-02-1993,Paraguai,"['Zagueiro (MCDireito', ' ZAEsquerdo)']"
+149738,1235,Gustavo Scarpa,Atletico MG,05-01-1994,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+241822,1235,Guilherme Arana,Atletico MG,14-04-1997,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+339845,1235,Paulinho,Atletico MG,15-07-2000,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+130435,1244,Jemerson,Gremio,24-08-1992,Brasil,"['Zagueiro (MCDireito', ' ZADireito)', ' Meiocampista Defensivo']"
+397566,1235,Matheus Mendes,Atletico MG,10-03-1999,Brasil,['Goleiro']
+146764,1235,Otávio,Atletico MG,04-05-1994,Brasil,['Meiocampista Defensivo']
+127618,1235,Renzo Saravia,Atletico MG,16-06-1993,Argentina,"['Zagueiro (MCDireito', ' ZADireito)', ' Meio Campo (MDireito)']"
+35237,1235,Eduardo Vargas,Atletico MG,20-11-1989,Chile,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+379229,1235,Bruno Fuchs,Atletico MG,01-04-1999,Brasil,['Zagueiro (MCDireito)']
+438312,1235,Cadu,Atletico MG,24-05-2004,,['Atacante']
+355663,1235,Everson,Atletico MG,22-07-1990,Brasil,['Goleiro']
+334972,1235,Alan Franco,Atletico MG,21-08-1998,Equador,['Meio Campo (MC)']
+134739,1235,Rodrigo Battaglia,Atletico MG,12-07-1991,Argentina,"['Zagueiro (MCDireito)', ' Meio Campo (MC)']"
+475166,1235,Alisson,Atletico MG,21-09-2005,Brasil,['Meio Campo (MDireito)']
+445346,1235,Brahian Palacios,Atletico MG,24-11-2002,Colômbia,['Meio Campo (MDireito)']
+246393,1235,Igor Rabello,Atletico MG,28-04-1995,Brasil,['Zagueiro (MCDireito)']
+429544,1235,Rômulo,Atletico MG,31-01-2004,,['Defensor']
+332151,1235,Matías Zaracho,Atletico MG,10-03-1998,Argentina,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+135641,1235,Deyverson,Atletico MG,08-05-1991,Brasil,['Atacante']
+349214,1235,Igor Gomes,Atletico MG,17-03-1999,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+445265,1235,Gabriel Delfim,Atletico MG,10-07-2002,,['Goleiro']
+101642,1235,Bernard,Atletico MG,08-09-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+40771,1235,Mariano,Atletico MG,23-06-1986,Brasil,"['Zagueiro (MCDireito', ' ZADireito)', ' Meio Campo (MDireito)']"
+284115,1235,Lyanco,Atletico MG,01-02-1997,Brasil,"['Zagueiro (MCDireito', ' ZADireito)']"
+287049,1235,Mauricio Lemos,Atletico MG,28-12-1995,Uruguai,['Zagueiro (MCDireito)']
+337813,1706,Pedrinho,Shakhtar Donetsk,13-04-1998,Brasil,"['Meia Atacante (C', ' Direito)']"
+479726,1235,Paulo Vitor,Atletico MG,26-08-2004,,['Meio Campo (MC)']
+523260,1235,Robert Santos,Atletico MG,20-07-2003,Brasil,['Atacante']
+29194,1235,Alan Kardec,Atletico MG,12-01-1989,Brasil,['Atacante']
+475167,1235,Caio Maia,Atletico MG,01-04-2005,,['Atacante']
+475168,936,Isaac,Nacional,26-03-2004,,['Atacante']
+445266,1235,Vitinho,Atletico MG,11-11-2004,,['Meiocampista']
+296479,2065,Renato Kayzer,Fortaleza,17-02-1996,Brasil,['Atacante']
+513490,2066,Rodrigo,Criciuma,10-03-1987,,['Zagueiro (MCDireito)']
+255362,2066,Marcelo Hermes,Criciuma,01-02-1995,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+283009,2066,Wilker Ángel,Criciuma,18-03-1993,Venezuela,['Zagueiro (MCDireito)']
+69844,2066,Yannick Bolasie,Criciuma,24-05-1989,República Democrática do Congo,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+261974,2066,Tobias Figueiredo,Criciuma,02-02-1994,Portugal,['Zagueiro (MCDireito)']
+513492,2066,Claudinho,Criciuma,24-09-2000,Brasil,['Zagueiro (ZADireito)']
+318247,251,Matheusinho,Santa Clara,11-02-1998,Brasil,"['Meia Atacante (C', ' Direito)']"
+241825,2066,Barreto,Criciuma,10-12-1995,Brasil,['Meiocampista Defensivo']
+513499,2066,Fellipe Mateus,Criciuma,12-02-1991,Brasil,"['Meia Atacante (C', ' Esquerdo)']"
+329404,2066,Dudu,Criciuma,30-05-1997,,['Zagueiro (ZADireito)']
+471629,2066,Newton,Criciuma,12-03-2000,,['Meiocampista Defensivo']
+491556,2066,Higor Meritão,Criciuma,23-06-1994,Brasil,['Meiocampista Defensivo']
+101993,2066,Gustavo,Criciuma,10-03-1993,Brasil,['Goleiro']
+281935,2066,Allano,Criciuma,24-04-1995,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+397897,2066,Ronald,Criciuma,18-06-1997,,"['Meio Campo (MC', ' MDireito)']"
+397850,2066,Patrick de Paula,Criciuma,08-09-1999,,['Meiocampista Defensivo']
+321245,2066,Alisson,Criciuma,08-06-1995,,['Goleiro']
+97813,2066,Miguel Trauco,Criciuma,25-08-1992,Peru,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+130508,2066,Arthur Caíke,Criciuma,15-06-1992,Brasil,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+384424,2066,Jhonata Robert,Criciuma,26-10-1999,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+445336,1487,Yerson Candelo,America de Cali,24-02-1992,Colômbia,['Meiocampista']
+102254,2066,Walisson Maia,Criciuma,21-08-1991,Brasil,"['Zagueiro (MCDireito', ' ZADireito)']"
+338378,2066,Jonathan,Criciuma,25-08-1992,Brasil,['Zagueiro (ZADireito)']
+75971,2066,Marquinhos Gabriel,Criciuma,21-07-1990,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+317654,2066,Felipe Vizeu,Criciuma,12-03-1997,Brasil,['Atacante']
+22377,2066,Éder,Criciuma,15-11-1986,Itália,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+472177,2066,Baltasar Barcia,Criciuma,19-02-2001,,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+279479,2066,Pedro Rocha,Criciuma,01-10-1994,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+454771,2066,Werik Popó,Criciuma,17-10-2001,,['Atacante']
+513503,2066,João Carlos,Criciuma,21-06-2001,,['Atacante']
+518258,2066,Eliédson,Criciuma,17-03-2003,,['Defensor']
+513505,2066,Eduardo Melo,Criciuma,13-05-2001,,['Atacante']
+128627,1239,Giorgian de Arrascaeta,Flamengo,01-06-1994,Uruguai,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+318475,1239,Pedro,Flamengo,20-06-1997,Brasil,['Atacante']
+317743,1239,Luiz Araújo,Flamengo,02-06-1996,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+515797,1239,Guilherme Gomes,Flamengo,02-02-2006,Brasil,['Atacante']
+345389,1239,Nicolás de la Cruz,Flamengo,01-06-1997,Uruguai,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+242791,1239,Gerson,Flamengo,20-05-1997,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+100995,1239,Alex Sandro,Flamengo,26-01-1991,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+429481,1239,Wesley,Flamengo,06-09-2003,,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+520942,1239,Felipe Teresa,Flamengo,02-01-2006,,['Atacante']
+146760,1239,Everton,Flamengo,22-03-1996,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+382206,1239,Gonzalo Plata,Flamengo,01-11-2000,Equador,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+429548,1239,Matheus Cunha,Flamengo,24-05-2001,Brasil,['Goleiro']
+279575,1239,Bruno Henrique,Flamengo,30-12-1990,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+117055,1239,Erick Pulgar,Flamengo,15-01-1994,Chile,['Meiocampista Defensivo']
+373530,1239,Michael,Flamengo,12-03-1996,,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+297581,1239,Ayrton Lucas,Flamengo,19-06-1997,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+445478,1239,Matheus Gonçalves,Flamengo,18-08-2005,Brasil,['Meia Atacante (Direito)']
+355684,1239,Léo Ortiz,Flamengo,03-01-1996,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+317681,1239,Fabrício Bruno,Flamengo,12-02-1996,Brasil,['Zagueiro (MCDireito)']
+145385,1239,Guillermo Varela,Flamengo,24-03-1993,Uruguai,"['Zagueiro (ZAEsquerdo', ' ZADireito)']"
+303902,1239,Agustín Rossi,Flamengo,21-08-1995,Argentina,['Goleiro']
+391348,31,Carlos Alcaraz,Everton,30-11-2002,,"['Meio Campo (MC', ' MEsquerdo)', ' Atacante']"
+27586,1239,David Luiz,Flamengo,22-04-1987,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+441421,27482,Igor Jesus,Los Angeles FC,07-03-2003,Brasil,['Meiocampista Defensivo']
+471043,1239,Lorran,Flamengo,04-07-2006,,['Meia Atacante (C)']
+470938,1239,Evertton Araújo,Flamengo,28-02-2003,Brasil,['Meiocampista Defensivo']
+146761,1239,Léo Pereira,Flamengo,31-01-1996,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)']"
+417968,1239,Werton,Flamengo,16-09-2003,,['Atacante']
+397846,1239,Matías Viña,Flamengo,09-11-1997,Uruguai,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+130886,1239,Gabriel Barbosa,Flamengo,30-08-1996,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+295838,1239,Allan,Flamengo,03-03-1997,Brasil,['Meiocampista Defensivo']
+328334,1239,Carlinhos,Flamengo,12-02-1997,Brasil,['Atacante']
+438188,254,Victor Hugo,Goztepe,11-05-2004,Brasil,['Meio Campo (MC)']
+520938,1239,João Victor,Flamengo,01-01-2007,,['Defensor']
+471041,1239,Daniel Sales,Flamengo,23-06-2006,Brasil,['Defensor']
+520941,1239,Shola Ogundana,Flamengo,22-02-2005,,['Atacante']
+472428,1239,Wallace Yan,Flamengo,08-02-2005,,['Meiocampista']
+426217,1239,Cleiton,Flamengo,25-04-2003,,['Defensor']
+92508,1224,Lucas Moura,Sao Paulo,13-08-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+397496,1224,Sabino,Sao Paulo,25-10-1996,,['Zagueiro (MCDireito)']
+384431,1224,Ferreira,Sao Paulo,31-12-1997,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+349496,1224,Ruan Tressoldi,Sao Paulo,07-06-1999,Brasil,['Zagueiro (MCDireito)']
+130449,1224,Alisson,Sao Paulo,25-06-1993,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+121009,1224,Luciano,Sao Paulo,18-05-1993,Brasil,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+133445,1224,Jonathan Calleri,Sao Paulo,23-09-1993,Argentina,['Atacante']
+402736,1224,Nahuel Ferraresi,Sao Paulo,19-11-1998,Venezuela,"['Zagueiro (MCDireito', ' ZADireito)']"
+389158,18,Welington,Southampton,19-02-2001,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+64096,1224,Rafael,Sao Paulo,23-06-1989,Brasil,['Goleiro']
+318478,1224,Robert Arboleda,Sao Paulo,22-10-1991,Equador,['Zagueiro (MCDireito)']
+509471,297,William,FC Porto,15-03-2006,,['Atacante']
+43369,1224,Luiz Gustavo,Sao Paulo,23-07-1987,Brasil,"['Zagueiro (MCDireito)', ' Meio Campo (MC)']"
+428259,1224,Pablo Maia,Sao Paulo,10-01-2002,Brasil,['Meiocampista Defensivo']
+383150,7164,Diego Costa,FC Krasnodar,21-07-1999,Brasil,['Zagueiro (MCDireito)']
+373429,1224,Igor Vinícius,Sao Paulo,01-04-1997,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+360373,1224,Erick,Sao Paulo,10-12-1997,,"['Meia Atacante (Esquerdo', ' Direito)']"
+337814,1224,Jandrei,Sao Paulo,01-03-1993,Brasil,['Goleiro']
+397584,1224,Michel Araújo,Sao Paulo,28-09-1996,Uruguai,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+402981,1224,Wellington Rato,Sao Paulo,18-06-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+334966,1224,Alan Franco,Sao Paulo,11-10-1996,Argentina,['Zagueiro (MCDireito)']
+349213,1224,Liziero,Sao Paulo,07-02-1998,,['Meiocampista Defensivo']
+445709,1224,Damián Bobadilla,Sao Paulo,11-07-2001,Paraguai,['Meiocampista Defensivo']
+383781,1224,Marcos Antônio,Sao Paulo,13-06-2000,Brasil,['Meiocampista Defensivo']
+351703,1224,André Silva,Sao Paulo,03-06-1997,Brasil,"['Meia Atacante (C)', ' Atacante']"
+350138,1224,Jamal Lewis,Sao Paulo,25-01-1998,Irlanda do Norte,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+389161,1224,Patryck,Sao Paulo,18-01-2003,,['Zagueiro (ZAEsquerdo)']
+389163,1224,Rodrigo Nestor,Sao Paulo,09-08-2000,Brasil,"['Meio Campo (MC', ' MEsquerdo)']"
+439643,11668,João Moreira,FC Porto B,21-05-2004,Portugal,['Defensor']
+13755,1224,Rafinha,Sao Paulo,07-09-1985,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo', ' ZADireito)', ' Meio Campo (MDireito)']"
+352966,1224,Giuliano Galoppo,Sao Paulo,18-06-1999,Argentina,['Meio Campo (MC)']
+389154,254,Juan,Goztepe,07-03-2002,,['Atacante']
+441925,1224,Rodriguinho,Sao Paulo,16-03-2004,,['Meiocampista']
+462993,894,Santiago Longo,Belgrano,12-04-1998,Argentina,['Meiocampista Defensivo']
+71182,1457,James Rodríguez,Leon,12-07-1991,Colômbia,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+531437,1224,Igão,Sao Paulo,19-08-2007,,['Defensor']
+521213,1224,Ryan Francisco,Sao Paulo,21-11-2006,Brasil,['Atacante']
+439867,1224,Young,Sao Paulo,07-03-2002,Brasil,['Goleiro']
+518044,1224,Henrique,Sao Paulo,09-11-2006,,['Atacante']
+299394,1220,Ronaldo,Juventude,23-10-1996,Brasil,['Meiocampista Defensivo']
+376939,1220,João Lucas,Juventude,09-03-1998,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+101657,1220,Gabriel Vasconcelos,Juventude,27-09-1992,Brasil,['Goleiro']
+514437,1220,Caíque,Juventude,10-10-1995,,['Meiocampista Defensivo']
+436503,1220,Lucas Barbosa,Juventude,22-02-2001,Brasil,['Meia Atacante (Direito)']
+114096,1220,Jádson,Juventude,30-08-1993,Brasil,"['Meio Campo (MC', ' MDireito)']"
+436564,1220,Yan Souto,Juventude,05-10-2001,Brasil,['Zagueiro (MCDireito)']
+417439,1220,Danilo Boza,Juventude,06-05-1998,Brasil,['Zagueiro (MCDireito)']
+448649,1220,Edson Carioca,Juventude,04-06-1997,Brasil,['Meia Atacante (Esquerdo)']
+279540,1220,Rodrigo Sam,Juventude,24-07-1995,Brasil,['Zagueiro (MCDireito)']
+146674,1220,Alan Ruschel,Juventude,23-08-1989,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo', ' MDireito)']"
+14195,1220,Nenê,Juventude,19-07-1981,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+468023,1220,Erick Farias,Juventude,03-01-1997,,"['Meia Atacante (Esquerdo)', ' Atacante']"
+397836,1220,Mateus Claus,Juventude,03-08-1994,Brasil,['Goleiro']
+403654,1220,Ewerthon,Juventude,10-11-2000,,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+328510,1220,Jean Carlos,Juventude,15-02-1992,,['Meia Atacante (C)']
+479765,1220,Gabriel Inocêncio,Juventude,20-08-1994,Brasil,"['Zagueiro (ZAEsquerdo', ' ZADireito)']"
+436623,1220,Luís Oyama,Juventude,30-01-1997,Brasil,['Meiocampista Defensivo']
+426063,1220,Kleiton,Juventude,23-04-1999,,['Atacante']
+416897,1220,Mandaca,Juventude,02-10-2001,Brasil,['Meia Atacante (C)']
+402835,1220,Marcelinho,Juventude,11-12-2002,Brasil,['Meia Atacante (Esquerdo)']
+383601,1220,Zé Marcos,Juventude,01-02-1998,Brasil,['Zagueiro (MCDireito)']
+101698,1220,Gilberto,Juventude,05-06-1989,Brasil,['Atacante']
+357902,1220,Gabriel Taliari,Juventude,13-04-1997,Brasil,['Atacante']
+469885,1220,Ronie Carrillo,Juventude,08-09-1996,Equador,['Atacante']
+409317,1220,Lucas Freitas,Juventude,20-01-2001,Brasil,['Zagueiro (MCDireito)']
+135223,1220,Diego Gonçalves,Juventude,22-09-1994,Brasil,['Atacante']
+357094,1220,Thiago Conti,Juventude,11-04-1997,Brasil,['Meiocampista Defensivo']
+513507,1220,Abner,Juventude,19-04-2004,,['Defensor']
+525965,1220,Peixoto,Juventude,30-06-1997,,['Meiocampista']
+397582,1218,Rildo,Goias,21-01-2000,Brasil,['Meia Atacante (Esquerdo)']
+439701,1220,David da Hora,Juventude,09-01-2000,Brasil,['Atacante']
+537102,1220,Dudu Vieira,Juventude,20-02-1994,Brasil,['Meiocampista']
+519097,1220,Davi Góes,Juventude,22-06-2005,,['Meiocampista']
+455082,1220,Ruan,Juventude,03-05-2005,,['Atacante']
+381686,1238,Lucas Esteves,Vitoria,24-06-2000,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+280693,1238,Matheuzinho,Vitoria,18-10-1997,Brasil,"['Meia Atacante (C', ' Direito)']"
+355714,1238,Alerrandro,Vitoria,12-01-2000,Brasil,['Atacante']
+358560,1238,Willean Lepo,Vitoria,16-01-1997,Brasil,['Zagueiro (ZADireito)']
+373974,1238,Wagner Leonardo,Vitoria,23-07-1999,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)']"
+317749,1238,Neris,Vitoria,17-06-1992,Brasil,['Zagueiro (MCDireito)']
+87833,1238,Raúl Cáceres,Vitoria,18-09-1991,Paraguai,['Zagueiro (ZADireito)']
+130887,1238,Willian Oliveira,Vitoria,16-05-1993,Brasil,['Meiocampista Defensivo']
+382262,1238,Edu,Vitoria,16-06-2000,Brasil,['Zagueiro (MCDireito)']
+452638,1238,Lucas Arcanjo,Vitoria,08-08-1998,Brasil,['Goleiro']
+352932,1238,Ricardo Ryller,Vitoria,27-02-1994,Brasil,['Meiocampista Defensivo']
+320349,1238,Filipe Machado,Vitoria,20-01-1996,Brasil,['Meiocampista Defensivo']
+479713,1238,Patric Calmon,Vitoria,05-07-1994,Brasil,['Zagueiro (ZAEsquerdo)']
+280246,1238,Carlos Eduardo,Vitoria,10-10-1996,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+442750,1238,Camutanga,Vitoria,27-09-1993,Brasil,['Zagueiro (MCDireito)']
+472422,1238,Janderson,Vitoria,06-05-1999,Brasil,['Atacante']
+518496,1238,Léo Naldi,Vitoria,18-08-2001,,['Meio Campo (MC)']
+81716,1238,Osvaldo,Vitoria,11-04-1987,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+63780,1238,Muriel,Vitoria,14-02-1987,Brasil,['Goleiro']
+363101,1238,Mateus Gonçalves,Vitoria,28-09-1994,,"['Meia Atacante (Esquerdo', ' Direito)']"
+360288,1238,Luan Silva,Vitoria,14-03-1999,,['Meiocampista Defensivo']
+286785,6332,Iury Castilho,Mirassol,06-09-1995,Brasil,"['Meia Atacante (Esquerdo)', ' Atacante']"
+363173,1238,Caio Vinícius,Vitoria,11-01-1999,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+437414,1238,Zé Hugo,Vitoria,17-10-1999,Brasil,['Atacante']
+468008,1238,Daniel Júnior,Vitoria,09-05-2002,,['Meiocampista']
+147833,6332,Zeca,Mirassol,16-05-1994,Brasil,"['Zagueiro (ZAEsquerdo', ' ZADireito)']"
+355658,6332,Rodrigo Andrade,Mirassol,03-02-1997,Brasil,['Meiocampista Defensivo']
+513516,1238,Fábio,Vitoria,03-12-2004,,['Meiocampista']
+92894,1238,Bruno Uvini,Vitoria,03-06-1991,Brasil,['Zagueiro (MCDireito)']
+110601,1238,Jean Mota,Vitoria,15-10-1993,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+337262,1218,Reynaldo,Goias,03-01-1997,Brasil,['Zagueiro (MCDireito)']
+360371,1238,Everaldo,Vitoria,28-05-1994,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+445442,1238,Eryc Castillo,Vitoria,05-02-1995,,['Atacante']
+14105,1238,Luiz Adriano,Vitoria,12-04-1987,Brasil,"['Meia Atacante (C', ' Esquerdo)', ' Atacante']"
+533251,1238,Lawan,Vitoria,25-05-2005,,['Atacante']
+448652,1238,Dudu,Vitoria,05-06-1999,,['Meiocampista']
+533252,1238,Luis Miguel,Vitoria,04-02-2005,Brasil,['Atacante']
+102175,6332,Léo Gamalho,Mirassol,30-01-1986,Brasil,['Atacante']
+523271,1238,Pablo,Vitoria,03-08-2003,,['Meiocampista']
+534214,1238,José Breno,Vitoria,06-06-2004,,['Meiocampista']
+97262,1244,Rodrigo Ely,Gremio,03-11-1993,Brasil,['Zagueiro (MCDireito)']
+260689,1244,Yeferson Soteldo,Gremio,30-06-1997,Venezuela,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+73494,1244,Martin Braithwaite,Gremio,05-06-1991,Dinamarca,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+344767,1244,Mathías Villasanti,Gremio,24-01-1997,Paraguai,['Meio Campo (MC)']
+472116,1227,Cuiabano,Botafogo RJ,16-02-2003,,['Zagueiro (ZAEsquerdo)']
+125622,1244,Agustín Marchesín,Gremio,16-03-1988,Argentina,['Goleiro']
+149572,1244,Franco Cristaldo,Gremio,15-08-1996,Argentina,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+110930,1244,Reinaldo,Gremio,28-09-1989,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+102464,1244,Rodrigo Caio,Gremio,17-08-1993,Brasil,"['Zagueiro (MCDireito', ' ZADireito)', ' Meiocampista Defensivo']"
+492869,1244,Gustavo Nunes,Gremio,20-11-2005,,['Meia Atacante (Esquerdo)']
+476466,1244,Zé Guilherme,Gremio,16-03-2005,Brasil,['Defensor']
+469349,1244,Miguel Monsalve,Gremio,27-02-2004,Colômbia,['Meia Atacante (C)']
+125450,1244,Walter Kannemann,Gremio,14-03-1991,Argentina,['Zagueiro (MCDireito)']
+243212,1244,João Pedro,Gremio,15-11-1996,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MDireito)']"
+31975,1244,Geromel,Gremio,21-09-1985,Brasil,['Zagueiro (MCDireito)']
+253963,1244,Dodi,Gremio,17-04-1996,Brasil,['Meiocampista Defensivo']
+450865,1244,Gustavo Martins,Gremio,11-08-2002,Brasil,['Zagueiro (MCDireito)']
+236295,1244,Cristian Pavón,Gremio,21-01-1996,Argentina,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+361476,1244,Mayk,Gremio,31-08-1999,,['Zagueiro (ZAEsquerdo)']
+469277,1244,Alexander Aravena,Gremio,06-09-2002,Chile,['Meia Atacante (Esquerdo)']
+365617,1244,Pepê,Gremio,06-01-1998,Brasil,['Meio Campo (MC)']
+318303,1244,Caíque,Gremio,31-07-1997,,['Goleiro']
+74554,2947,Rafael Cabral,Real Salt Lake,20-05-1990,Brasil,['Goleiro']
+446317,1121,Felipe Carballo,New York Red Bulls,04-10-1996,Uruguai,['Meiocampista Defensivo']
+44031,1244,Fábio,Gremio,09-07-1990,Brasil,"['Zagueiro (ZAEsquerdo', ' ZADireito)', ' Meio Campo (MDireito)']"
+468012,1244,Natã Felipe,Gremio,05-06-2001,,['Zagueiro (MCDireito)']
+102256,1244,Edenílson,Gremio,18-12-1989,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+418966,1244,Du Queiroz,Gremio,19-01-2000,,['Meiocampista Defensivo']
+517833,1244,Igor,Gremio,01-03-2005,,['Meiocampista']
+24248,1244,Diego Costa,Gremio,07-10-1988,Espanha,['Atacante']
+142410,1244,Nathan,Gremio,13-03-1996,Brasil,"['Meio Campo (MC', ' MEsquerdo)']"
+432210,1244,Matías Arezo,Gremio,21-11-2002,Uruguai,['Atacante']
+86935,214,João Pedro,Hull,09-03-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+471046,1244,Everton Galdino,Gremio,17-03-1997,,['Meia Atacante (Direito)']
+520919,1244,Alysson Edward,Gremio,05-05-2006,,['Atacante']
+482467,1244,Nathan Fernandes,Gremio,16-02-2005,,['Atacante']
+475205,1244,Ronald,Gremio,11-02-2003,,['Meio Campo (MC)']
+448770,6368,Marcao,Atletico GO,15-05-2001,,['Defensor']
+453459,6368,Guilherme Romão,Atletico GO,07-10-1997,Brasil,['Zagueiro (ZAEsquerdo)']
+330555,6368,Ronaldo,Atletico GO,22-08-1996,Brasil,['Goleiro']
+446364,6368,Alejo Cruz,Atletico GO,01-09-2000,,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo)']"
+337976,6368,Luiz Fernando,Atletico GO,16-10-1996,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+514393,6368,Adriano Martins,Atletico GO,01-04-1997,,['Zagueiro (MCDireito)']
+441930,6368,Alix,Atletico GO,06-11-1999,,['Zagueiro (MCDireito)']
+404487,6368,Gabriel Baralhas,Atletico GO,10-10-1998,Brasil,['Meiocampista Defensivo']
+95977,6368,Joel Campbell,Atletico GO,26-06-1992,Costa Rica,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+442751,6368,Rhaldney,Atletico GO,20-11-1998,,['Meio Campo (MC)']
+317668,6368,Luiz Felipe,Atletico GO,09-09-1993,Brasil,['Zagueiro (MCDireito)']
+337301,6368,Shaylon,Atletico GO,27-04-1997,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+146665,6368,Jorginho,Atletico GO,05-01-1991,Brasil,"['Meia Atacante (C', ' Esquerdo)']"
+417929,6368,Bruno Tubarão,Atletico GO,05-03-1995,,"['Zagueiro (ZADireito)', ' Meio Campo (MEsquerdo', ' MDireito)']"
+132882,6368,Pedro Henrique,Atletico GO,18-12-1992,Brasil,['Zagueiro (MCDireito)']
+373654,6368,Janderson,Atletico GO,26-02-1999,Brasil,"['Meia Atacante (Esquerdo', ' Direito)']"
+397965,6368,Roni,Atletico GO,15-04-1999,Brasil,['Meio Campo (MC)']
+523261,6368,Eli,Atletico GO,23-03-2004,,['Atacante']
+517094,6368,Rafael Haller,Atletico GO,17-08-2000,Uruguai,['Defensor']
+235735,6368,Philipe Sampaio,Atletico GO,11-11-1994,Brasil,['Zagueiro (MCDireito)']
+407469,6368,Pedro Rangel,Atletico GO,29-06-2000,Brasil,['Goleiro']
+436566,6368,Maguinho,Atletico GO,06-01-1992,Brasil,['Zagueiro (ZADireito)']
+344723,6368,Gonzalo Freitas,Atletico GO,02-10-1991,Uruguai,['Meiocampista Defensivo']
+317747,24014,Lucas Kal,Al Riyadh,16-03-1996,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)', ' Meiocampista Defensivo']"
+538529,6368,Jean Carlos,Atletico GO,08-05-2005,,['Meiocampista']
+363561,6368,Jan Hurtado,Atletico GO,05-03-2000,Venezuela,['Atacante']
+373524,6368,Yony González,Atletico GO,11-07-1994,Colômbia,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+523263,6368,Derek,Atletico GO,02-12-1997,,['Atacante']
+474116,6368,Emiliano Rodríguez,Atletico GO,16-07-2003,Uruguai,['Atacante']
+318474,6368,Daniel Simões,Atletico GO,11-01-1996,Brasil,"['Meio Campo (MC', ' MDireito)']"
+426885,6327,Matías Lacava,Ulsan HD FC,24-10-2002,Venezuela,"['Meia Atacante (Esquerdo', ' Direito)']"
+523262,6368,Max,Atletico GO,28-02-2002,,['Atacante']
+525961,6368,Luiz Gustavo,Atletico GO,30-05-2003,Brasil,['Defensor']
+525963,6368,Randerson,Atletico GO,12-03-2004,Brasil,['Meiocampista']
+10116,4619,Vágner Love,Avai FC,11-06-1984,Brasil,['Atacante']
+243380,6368,Gustavo Campanharo,Atletico GO,04-04-1992,Brasil,['Meio Campo (MC)']
+539665,6368,Geovane,Atletico GO,12-10-2006,,['Atacante']
+514394,6368,Mateo Zuleta,Atletico GO,07-06-2002,,['Meiocampista']
+523264,6368,Yeferson Rodallega,Atletico GO,23-11-2000,,['Defensor']
+450860,4619,Gabriel Barros,Avai FC,25-10-2001,Brasil,['Atacante']
+317791,2065,João Ricardo,Fortaleza,06-09-1988,Brasil,['Goleiro']
+406287,2065,Benjamín Kuscevic,Fortaleza,02-05-1996,Chile,['Zagueiro (MCDireito)']
+146526,2065,Tinga,Fortaleza,01-09-1993,Brasil,"['Zagueiro (MCDireito', ' ZADireito)']"
+261477,2065,Tomás Cardona,Fortaleza,10-10-1995,Argentina,['Zagueiro (MCDireito)']
+125232,2065,Emanuel Brítez,Fortaleza,26-03-1992,Argentina,"['Zagueiro (MCDireito', ' ZAEsquerdo', ' ZADireito)']"
+414213,2065,Eros Mancuso,Fortaleza,17-04-1999,Argentina,"['Zagueiro (ZAEsquerdo', ' ZADireito)']"
+284377,2065,Marinho,Fortaleza,29-05-1990,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+436640,2065,Hércules,Fortaleza,20-10-2000,Brasil,"['Meio Campo (MC', ' MDireito)']"
+326607,2065,Lucas Sasha,Fortaleza,01-03-1990,Brasil,['Meiocampista Defensivo']
+436639,2065,Moisés,Fortaleza,02-09-1996,,"['Meia Atacante (Esquerdo)', ' Atacante']"
+299687,2065,Tomás Pochettino,Fortaleza,01-02-1996,Argentina,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+358143,2065,Felipe Jonatan,Fortaleza,15-02-1998,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo)']"
+337971,2065,Bruno Pacheco,Fortaleza,08-12-1991,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+277351,2065,Emmanuel Martínez,Fortaleza,04-06-1994,Argentina,"['Meio Campo (MC', ' MEsquerdo)']"
+406285,2065,Breno Lopes,Fortaleza,24-01-1996,Brasil,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+27763,2065,Titi,Fortaleza,12-03-1988,Brasil,['Zagueiro (MCDireito)']
+319406,2065,Matheus Rossetto,Fortaleza,03-06-1996,Brasil,"['Meio Campo (MC', ' MDireito)']"
+303995,2065,Juan Lucero,Fortaleza,10-10-1991,Argentina,['Atacante']
+380894,2065,Pedro Augusto,Fortaleza,03-03-1997,Brasil,['Meio Campo (MC)']
+337884,2065,Yago Pikachu,Fortaleza,05-06-1992,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+404985,2065,Imanol Machuca,Fortaleza,15-01-2000,Argentina,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+517832,2065,Kervin Andrade,Fortaleza,13-04-2005,Venezuela,['Atacante']
+146672,2065,Zé Welison,Fortaleza,11-03-1995,Brasil,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+474757,2065,Kauan Rodrigues,Fortaleza,16-04-2005,,['Atacante']
+397568,2065,Calebe,Fortaleza,30-04-2000,Brasil,"['Meia Atacante (C', ' Direito)']"
+404916,1219,Braian Aguirre,Internacional,28-07-2000,Argentina,"['Zagueiro (ZAEsquerdo', ' ZADireito)']"
+386203,1219,Alexandro Bernabéi,Internacional,24-09-2000,Argentina,['Zagueiro (ZAEsquerdo)']
+74571,1219,Alan Patrick,Internacional,13-05-1991,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+397851,1219,Wesley,Internacional,30-03-1999,,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+328564,905,Fabricio Bustos,River Plate,28-04-1996,Argentina,['Zagueiro (ZADireito)']
+114105,1219,Renê,Internacional,14-09-1992,Brasil,['Zagueiro (ZAEsquerdo)']
+145777,1219,Rafael Borré,Internacional,15-09-1995,Colômbia,"['Meia Atacante (C)', ' Atacante']"
+373656,1219,Fabrício,Internacional,07-01-1986,,['Goleiro']
+342699,1219,Bruno Tabata,Internacional,30-03-1997,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+383128,1219,Bruno Gomes,Internacional,04-04-2001,Brasil,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+397766,1219,Vitão,Internacional,02-02-2000,Brasil,['Zagueiro (MCDireito)']
+440058,4979,Robert Renan,Al Shabab,11-10-2003,Brasil,['Zagueiro (MCDireito)']
+248121,1219,Thiago Maia,Internacional,23-03-1997,Brasil,['Meiocampista Defensivo']
+478208,1219,Gabriel Carvalho,Internacional,17-08-2007,Brasil,['Meia Atacante (Direito)']
+334663,1219,Agustín Rogel,Internacional,17-10-1997,Uruguai,['Zagueiro (MCDireito)']
+231141,1219,Sergio Rochet,Internacional,23-03-1993,Uruguai,['Goleiro']
+378823,1219,Rômulo,Internacional,01-03-2000,,['Meiocampista Defensivo']
+31958,1219,Fernando,Internacional,25-07-1987,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+132282,1219,Bruno Henrique,Internacional,21-10-1989,Brasil,['Meio Campo (MC)']
+458927,1219,Igor Gomes,Internacional,06-03-2001,Brasil,"['Zagueiro (MCDireito', ' ZADireito)']"
+35689,1219,Gabriel Mercado,Internacional,18-03-1987,Argentina,"['Zagueiro (MCDireito', ' ZADireito)']"
+295012,1219,Wanderson,Internacional,07-10-1994,Bélgica,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+79929,861,Hugo Mallo,Aris Thessaloniki FC,22-06-1991,Espanha,"['Zagueiro (MCDireito', ' ZADireito)', ' Meio Campo (MDireito)']"
+376914,1234,Maurício,Palmeiras,22-06-2001,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+416920,1219,Anthoni,Internacional,23-01-2002,,['Goleiro']
+527663,1219,Clayton,Internacional,04-04-2000,,['Zagueiro (MCDireito)']
+83895,1219,Enner Valencia,Internacional,04-11-1989,Equador,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+478206,1219,Gustavo Prado,Internacional,06-06-2005,,['Meiocampista']
+478214,1219,Ricardo Mathias,Internacional,25-07-2006,,['Atacante']
+531161,1219,Lucca Drummond,Internacional,12-01-2004,Brasil,['Atacante']
+25657,2365,Charles Aránguiz,Universidad de Chile,17-04-1989,Chile,['Meio Campo (MC)']
+445573,1219,Lucca,Internacional,02-04-2003,,['Atacante']
+125654,1219,Lucas Alario,Internacional,08-10-1992,Argentina,['Atacante']
+521118,1219,Luis Otávio,Internacional,12-04-2007,,['Meiocampista']
+441422,936,Matheus Dias,Nacional,09-05-2002,Brasil,['Meio Campo (MC)']
+228262,1219,Hyoran,Internacional,25-05-1993,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+400993,1219,Nathan,Internacional,05-09-2001,,"['Zagueiro (MCDireito', ' ZADireito)', ' Meio Campo (MDireito)']"
+397587,1227,Luiz Henrique,Botafogo RJ,02-01-2001,Brasil,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+279515,240,Adryelson,Anderlecht,23-03-1998,Brasil,['Zagueiro (MCDireito)']
+337817,1227,Jefferson Savarino,Botafogo RJ,11-11-1996,Venezuela,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+355710,1227,Gregore,Botafogo RJ,02-03-1994,Brasil,['Meiocampista Defensivo']
+303874,1227,Alexander Barboza,Botafogo RJ,16-03-1995,Argentina,['Zagueiro (MCDireito)']
+361732,228,Thiago Almada,Lyon,26-04-2001,Argentina,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+450139,1227,Jacob Montes,Botafogo RJ,20-10-1998,EUA,['Meiocampista']
+125793,1227,Alex Telles,Botafogo RJ,15-12-1992,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+484252,1227,Mateo Ponte,Botafogo RJ,24-05-2003,Uruguai,['Zagueiro (ZADireito)']
+132688,1227,Bastos,Botafogo RJ,27-03-1991,Angola,['Zagueiro (MCDireito)']
+318676,1227,Marlon Freitas,Botafogo RJ,27-03-1995,Brasil,['Meiocampista Defensivo']
+121718,1227,Marçal,Botafogo RJ,19-02-1989,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+318689,1227,John,Botafogo RJ,13-02-1996,Brasil,['Goleiro']
+397497,1227,Igor Jesus,Botafogo RJ,25-02-2001,Brasil,['Atacante']
+122266,1227,Roberto Fernández,Botafogo RJ,29-03-1988,Paraguai,['Goleiro']
+91779,1227,Pablo,Botafogo RJ,21-06-1991,Brasil,['Zagueiro (MCDireito)']
+373531,1227,Júnior Santos,Botafogo RJ,11-10-1994,Brasil,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+294056,1227,Danilo Barbosa,Botafogo RJ,28-02-1996,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+83705,1477,Damián Suárez,Club Atletico Penarol,27-04-1988,Uruguai,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+349504,1227,Vitinho,Botafogo RJ,23-07-1999,,"['Zagueiro (ZAEsquerdo', ' ZADireito)', ' Meio Campo (MEsquerdo', ' MDireito)']"
+440084,1227,Jeffinho,Botafogo RJ,30-12-1999,,['Meia Atacante (Esquerdo)']
+135058,1227,Óscar Romero,Botafogo RJ,04-07-1992,Paraguai,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+478828,1227,Fabiano,Botafogo RJ,15-04-2006,,['Atacante']
+373938,1227,Lucas Halter,Botafogo RJ,02-05-2000,Brasil,['Zagueiro (MCDireito)']
+322788,1227,Tiquinho Soares,Botafogo RJ,17-01-1991,Brasil,['Atacante']
+417514,1227,Matheus Martins,Botafogo RJ,16-07-2003,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+121496,1227,Eduardo,Botafogo RJ,17-10-1989,Brasil,"['Meio Campo (MC)', ' Atacante']"
+399249,1227,Hugo,Botafogo RJ,20-09-2001,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+416915,1227,Carlos Alberto,Botafogo RJ,14-04-2002,Brasil,"['Meia Atacante (Esquerdo)', ' Atacante']"
+317656,1227,Tchê Tchê,Botafogo RJ,30-08-1992,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+477292,1227,Diego Hernández,Botafogo RJ,22-06-2000,,['Atacante']
+82438,1227,Allan,Botafogo RJ,08-01-1991,Brasil,['Meiocampista Defensivo']
+471626,1227,Kauê,Botafogo RJ,22-10-2004,,['Meiocampista']
+397828,1227,Matheus Nascimento,Botafogo RJ,03-03-2004,Brasil,['Atacante']
+518043,1227,Yarlen,Botafogo RJ,20-02-2006,,['Atacante']
+4092,1227,Rafael,Botafogo RJ,09-07-1990,Brasil,"['Zagueiro (ZAEsquerdo', ' ZADireito)', ' Meio Campo (MDireito)']"
+518488,1227,Raul,Botafogo RJ,28-07-1997,,['Goleiro']
+243276,1230,William,Cruzeiro,03-04-1995,Brasil,"['Zagueiro (ZAEsquerdo', ' ZADireito)', ' Meio Campo (MDireito)']"
+297389,1230,Matheus Pereira,Cruzeiro,05-05-1996,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+468000,1230,Kaiki,Cruzeiro,08-03-2003,,['Zagueiro (ZAEsquerdo)']
+430082,1230,João Marcelo,Cruzeiro,13-06-2000,Brasil,['Zagueiro (MCDireito)']
+363107,1230,Álvaro Barreal,Cruzeiro,17-08-2000,Argentina,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+106466,1230,Helibelton Palacios,Cruzeiro,11-06-1993,Colômbia,"['Zagueiro (MCDireito', ' ZADireito)']"
+360109,1230,Anderson,Cruzeiro,05-03-1998,Brasil,['Goleiro']
+348667,1230,Matheus Henrique,Cruzeiro,19-12-1997,Brasil,['Meio Campo (MC)']
+136088,1230,Juan Dinenno,Cruzeiro,29-08-1994,Argentina,['Atacante']
+416910,1230,Zé Ivaldo,Cruzeiro,21-02-1997,,['Zagueiro (MCDireito)']
+125297,1230,Lucas Romero,Cruzeiro,18-04-1994,Argentina,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+388685,1230,Gabriel Veron,Cruzeiro,03-09-2002,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+329403,846,Arthur Gomes,Dinamo Moscow,03-07-1998,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+341745,1230,Marlon,Cruzeiro,20-05-1997,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+126251,1230,Lucas Villalba,Cruzeiro,19-08-1994,Argentina,"['Zagueiro (MCDireito', ' ZAEsquerdo)', ' Meiocampista Defensivo', ' Meio Campo (MEsquerdo)']"
+363936,1230,Kaio Jorge,Cruzeiro,24-01-2002,Brasil,['Atacante']
+114599,1230,Rafa Silva,Cruzeiro,04-04-1992,Brasil,['Atacante']
+115098,1230,Lucas Silva,Cruzeiro,16-02-1993,Brasil,['Meiocampista Defensivo']
+448812,1230,Fabrizio Peralta,Cruzeiro,02-08-2002,Paraguai,['Meiocampista Defensivo']
+131057,2948,Ramiro,FC Dallas,22-05-1993,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MDireito)']"
+532719,1230,Jonathan,Cruzeiro,27-05-2004,,['Defensor']
+446066,1230,Lautaro Díaz,Cruzeiro,21-05-1998,Argentina,['Atacante']
+147923,1230,Walace,Cruzeiro,04-04-1995,Brasil,['Meiocampista Defensivo']
+521606,1230,Tevis Gabriel,Cruzeiro,28-01-2006,,['Atacante']
+298869,9081,Mateus Vital,Shanghai Port,12-02-1998,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+472424,1230,Japa,Cruzeiro,02-01-2004,,['Meiocampista']
+358068,3614,Rafael Elias,Kyoto Sanga FC,12-04-1999,Brasil,['Atacante']
+495177,6332,João Pedro,Mirassol,02-02-2003,Brasil,['Atacante']
+467999,1230,Weverton,Cruzeiro,17-02-2003,,['Defensor']
+484203,1230,Robert,Cruzeiro,13-04-2005,,['Atacante']
+516220,1230,Vitinho,Cruzeiro,18-02-2004,,['Meiocampista']
+393145,861,José Cifuentes,Aris Thessaloniki FC,12-03-1999,Equador,['Meio Campo (MC)']
+386579,1230,Wesley Gasolina,Cruzeiro,13-03-2000,,['Defensor']
+521608,1230,Kenji,Cruzeiro,30-01-2006,,['Atacante']
+521607,1230,Arthur Viana,Cruzeiro,12-02-2004,,['Meiocampista']
+468005,1230,Jhosefer,Cruzeiro,09-03-2004,,['Meiocampista']
+510728,1234,Estêvão,Palmeiras,24-04-2007,,['Meia Atacante (Direito)']
+317677,1234,Raphael Veiga,Palmeiras,19-06-1995,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+103383,1234,Gustavo Gómez,Palmeiras,06-05-1993,Paraguai,['Zagueiro (MCDireito)']
+93026,1234,Felipe Anderson,Palmeiras,15-04-1993,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+402213,1234,Richard Ríos,Palmeiras,02-06-2000,Colômbia,['Meiocampista Defensivo']
+429471,1234,Kaiky Naves,Palmeiras,08-05-2002,Brasil,['Zagueiro (MCDireito)']
+422035,1234,Joaquín Piquerez,Palmeiras,24-08-1998,Uruguai,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+102023,1234,Weverton,Palmeiras,13-12-1987,Brasil,['Goleiro']
+339173,1234,Murilo,Palmeiras,27-03-1997,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+478319,29,Luis Guilherme,West Ham,09-02-2006,Brasil,['Atacante']
+74447,1234,Marcos Rocha,Palmeiras,11-12-1988,Brasil,"['Zagueiro (MCDireito', ' ZADireito)', ' Meio Campo (MDireito)']"
+408110,1234,José López,Palmeiras,06-12-2000,Argentina,['Atacante']
+478314,1234,Vitor Reis,Palmeiras,12-01-2006,Brasil,['Zagueiro (MCDireito)']
+370389,1234,Aníbal Moreno,Palmeiras,13-05-1999,Argentina,['Meiocampista Defensivo']
+130563,1234,Mayke,Palmeiras,10-11-1992,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+437269,1234,Agustín Giay,Palmeiras,16-01-2004,Argentina,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+429475,5438,Jhon Jhon,Red Bull Bragantino,09-09-2002,,"['Meia Atacante (C', ' Esquerdo)']"
+363104,1234,Rony,Palmeiras,11-05-1995,,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+119540,1458,Luan,Toluca,10-05-1993,Brasil,['Zagueiro (MCDireito)']
+374916,1234,Caio Paulista,Palmeiras,11-05-1998,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo', ' MDireito)']"
+397847,1234,Gabriel Menino,Palmeiras,29-09-2000,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MC', ' MDireito)']"
+17476,1234,Zé Rafael,Palmeiras,16-06-1993,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+406718,1234,Vanderlan,Palmeiras,07-09-2002,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+402214,1799,Lázaro,Almeria,12-03-2002,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+445649,52,Endrick,Real Madrid,21-07-2006,,['Atacante']
+515806,1234,Luighi Hanri,Palmeiras,30-04-2006,,['Atacante']
+75752,1234,Dudu,Palmeiras,07-01-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+417540,1234,Fabinho,Palmeiras,09-04-2002,,['Meiocampista Defensivo']
+521715,1234,Rômulo,Palmeiras,07-10-2001,,['Meiocampista']
+416887,936,Gustavo Garcia,Nacional,04-01-2002,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+63830,1234,Marcelo Lomba,Palmeiras,18-12-1986,Brasil,['Goleiro']
+397493,1243,Bento,Athletico Paranaense,10-06-1999,,['Goleiro']
+404979,1243,Lucas Esquivel,Athletico Paranaense,14-10-2001,Argentina,"['Zagueiro (MCDireito', ' ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+419458,1243,Lucas Belezi,Athletico Paranaense,08-05-2003,Brasil,['Zagueiro (MCDireito)']
+336102,1243,Tomás Cuello,Athletico Paranaense,05-03-2000,Argentina,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+93064,1243,Nikão,Athletico Paranaense,29-07-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+366432,1243,Kaique Rocha,Athletico Paranaense,28-02-2001,,['Zagueiro (MCDireito)']
+410684,1243,Julimar,Athletico Paranaense,25-01-2001,Brasil,['Meia Atacante (Esquerdo)']
+445158,1243,Mycael,Athletico Paranaense,12-03-2004,,['Goleiro']
+373515,1243,Erick,Athletico Paranaense,14-11-1997,,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+517830,1243,Felipinho,Athletico Paranaense,18-10-2001,,['Meiocampista Defensivo']
+19119,1243,Fernandinho,Athletico Paranaense,04-05-1985,Brasil,"['Zagueiro (MCDireito', ' ZADireito)', ' Meio Campo (MC)']"
+20938,1243,Thiago Heleno,Athletico Paranaense,17-09-1988,Brasil,['Zagueiro (MCDireito)']
+114095,1243,Gabriel,Athletico Paranaense,10-07-1992,Brasil,['Meiocampista Defensivo']
+436657,1243,Agustín Canobbio,Athletico Paranaense,01-10-1998,Uruguai,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+446331,1243,Mateo Gamarra,Athletico Paranaense,20-10-2000,Paraguai,['Zagueiro (MCDireito)']
+462994,1243,Bruno Zapelli,Athletico Paranaense,16-05-2002,Argentina,"['Meia Atacante (C', ' Esquerdo)']"
+114194,1243,Madson,Athletico Paranaense,13-01-1992,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+107182,1243,Pablo,Athletico Paranaense,23-06-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+106118,1243,Gonzalo Mastriani,Athletico Paranaense,28-04-1993,Uruguai,['Atacante']
+478179,1243,João Cruz,Athletico Paranaense,12-05-2006,,['Meia Atacante (C)']
+419450,1243,Léo Linck,Athletico Paranaense,03-03-2001,Brasil,['Goleiro']
+144146,1243,Leonardo Godoy,Athletico Paranaense,28-04-1995,Argentina,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+397491,1243,Christian,Athletico Paranaense,19-12-2000,Brasil,"['Meio Campo (MC', ' MEsquerdo)']"
+472107,1243,Fernando,Athletico Paranaense,14-09-1999,,['Zagueiro (ZAEsquerdo)']
+429556,254,Emersonn,Goztepe,16-07-2004,,['Atacante']
+315587,1243,Lucas Di Yorio,Athletico Paranaense,22-11-1996,Argentina,['Atacante']
+523466,1243,Zé Vitor,Athletico Paranaense,02-05-2000,,['Meiocampista']
+530481,1243,Kayke Santos,Athletico Paranaense,26-04-2008,,['Atacante']
+397571,935,Léo Realpe,Famalicao,26-02-2001,Equador,['Zagueiro (MCDireito)']
+355777,1458,Helinho,Toluca,25-04-2000,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+337900,5438,Juninho Capixaba,Red Bull Bragantino,06-07-1997,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+320158,5438,Cleiton,Red Bull Bragantino,19-08-1997,Brasil,['Goleiro']
+92032,5438,Eduardo Sasha,Red Bull Bragantino,24-02-1992,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+349707,5438,Matheus Fernandes,Red Bull Bragantino,30-06-1998,,['Meiocampista Defensivo']
+418751,5438,Andrés Hurtado,Red Bull Bragantino,23-12-2001,Equador,['Zagueiro (ZADireito)']
+131079,5438,Lucas Evangelista,Red Bull Bragantino,06-02-1995,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+444209,5438,Eduardo Santos,Red Bull Bragantino,28-11-1997,Brasil,['Zagueiro (MCDireito)']
+454770,5438,Douglas Mendes,Red Bull Bragantino,13-06-2004,,['Zagueiro (MCDireito)']
+149561,5438,Pedro Henrique,Red Bull Bragantino,02-10-1995,Brasil,['Zagueiro (MCDireito)']
+364161,5438,Luan Cândido,Red Bull Bragantino,02-02-2001,Brasil,"['Zagueiro (MCDireito', ' ZAEsquerdo)']"
+479727,5438,Henry Mosquera,Red Bull Bragantino,15-11-2001,,"['Meia Atacante (Esquerdo', ' Direito)']"
+279478,214,Lincoln,Hull,07-11-1998,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+523713,5438,Vinicinho,Red Bull Bragantino,20-02-2004,,['Meia Atacante (Esquerdo)']
+382650,5438,Lucão,Red Bull Bragantino,26-02-2001,,['Goleiro']
+373666,5438,Vitinho,Red Bull Bragantino,01-04-1999,,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+417443,885,Bruninho,Cercle Bruges,14-03-2003,,"['Meia Atacante (C', ' Esquerdo)']"
+439642,5438,Nathan Mendes,Red Bull Bragantino,19-08-2002,Brasil,['Zagueiro (ZADireito)']
+409122,5438,Guilherme,Red Bull Bragantino,14-02-2002,Brasil,['Zagueiro (ZAEsquerdo)']
+366498,5438,Jadsom,Red Bull Bragantino,20-05-2001,Brasil,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+471637,5438,Gustavinho,Red Bull Bragantino,23-04-2004,Brasil,['Meia Atacante (C)']
+363129,5438,Eric Ramires,Red Bull Bragantino,10-08-2000,,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+334129,5438,Lucas Cunha,Red Bull Bragantino,23-01-1997,Brasil,['Zagueiro (MCDireito)']
+358737,5438,Raul,Red Bull Bragantino,11-07-1996,Brasil,"['Zagueiro (ZADireito)', ' Meiocampista Defensivo']"
+443085,5438,Fabrício,Red Bull Bragantino,15-06-2000,,['Goleiro']
+446380,1241,Ignacio Laquintana,Santos FC,01-02-1999,Uruguai,['Meiocampista']
+460759,5438,Thiago Borbas,Red Bull Bragantino,07-04-2002,Uruguai,['Atacante']
+471636,5438,Talisson,Red Bull Bragantino,21-05-2002,,['Atacante']
+137386,5438,Ivan Cavaleiro,Red Bull Bragantino,18-10-1993,Portugal,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+518067,5438,Riquelme,Red Bull Bragantino,07-01-2006,,['Meiocampista']
+540228,5438,Sergio Palacios,Red Bull Bragantino,14-02-2005,Colômbia,['Defensor']
+478831,5438,Chumbinho,Red Bull Bragantino,22-09-2003,,['Meiocampista']
+533668,5438,Juliano,Red Bull Bragantino,01-03-2008,,['Atacante']
+538029,5438,Vitinho Mota,Red Bull Bragantino,27-07-2003,,['Meiocampista']
+445691,5438,Everton,Red Bull Bragantino,24-02-2002,,['Meiocampista']
+424039,1232,Jhon Arias,Fluminense,21-09-1997,Colômbia,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+28550,1232,Thiago Silva,Fluminense,22-09-1984,Brasil,['Zagueiro (MCDireito)']
+358738,1232,Vitor Eudes,Fluminense,21-10-1998,Brasil,['Goleiro']
+519613,1232,Kevin Serna,Fluminense,17-12-1997,Colômbia,['Meia Atacante (Esquerdo)']
+397585,161,André,Wolves,16-07-2001,Brasil,['Meiocampista Defensivo']
+114164,1232,Antônio Carlos,Fluminense,07-03-1993,Brasil,['Zagueiro (MCDireito)']
+27490,1232,Fábio,Fluminense,30-09-1980,Brasil,['Goleiro']
+295008,1232,Thiago Santos,Fluminense,05-09-1989,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+40237,1232,Ganso,Fluminense,12-10-1989,Brasil,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+364317,1232,Ignácio,Fluminense,01-12-1996,Brasil,['Zagueiro (MCDireito)']
+280413,1232,Samuel Xavier,Fluminense,06-06-1990,Brasil,['Zagueiro (ZADireito)']
+20241,1232,Marcelo,Fluminense,12-05-1988,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+512611,1232,Facundo Bernal,Fluminense,21-08-2003,Uruguai,['Meiocampista Defensivo']
+419077,1232,Marquinhos,Fluminense,07-04-2003,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+401192,1232,Martinelli,Fluminense,05-10-2001,Brasil,"['Zagueiro (MCDireito)', ' Meiocampista Defensivo']"
+321846,1232,Lima,Fluminense,11-06-1996,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+284602,1232,Keno,Fluminense,10-09-1989,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+478297,1706,Kauã Elias,Shakhtar Donetsk,28-03-2006,Brasil,['Atacante']
+93433,1232,Diogo Barbosa,Fluminense,17-08-1992,Brasil,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+68889,3460,Douglas Costa,Sydney FC,14-09-1990,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+443546,1232,Alexsander,Fluminense,08-10-2003,,"['Zagueiro (ZAEsquerdo)', ' Meiocampista Defensivo']"
+360451,1232,Nonato,Fluminense,03-03-1998,Brasil,['Meio Campo (MC)']
+120103,5112,Gabriel Pires,Panserraikos FC,18-09-1993,Brasil,"['Meio Campo (MC)', ' Atacante']"
+131382,27482,Marlon,Los Angeles FC,07-09-1995,Brasil,['Zagueiro (MCDireito)']
+75550,1232,Manoel,Fluminense,26-02-1990,Brasil,['Zagueiro (MCDireito)']
+13551,1232,Felipe Melo,Fluminense,26-06-1983,Brasil,"['Zagueiro (MCDireito)', ' Meio Campo (MC)']"
+478291,1232,Esquerdinha,Fluminense,28-02-2006,,['Defensor']
+448705,1232,Gabriel Fuentes,Fluminense,09-02-1997,Colômbia,['Zagueiro (ZAEsquerdo)']
+397899,1232,Germán Cano,Fluminense,02-01-1988,Argentina,['Atacante']
+373432,1232,Guga,Fluminense,29-08-1998,,"['Zagueiro (ZAEsquerdo', ' ZADireito)', ' Meio Campo (MDireito)']"
+476465,1232,Felipe Andrade,Fluminense,29-05-2002,,['Defensor']
+472112,1232,Isaac,Fluminense,24-04-2004,,['Atacante']
+25716,1232,Renato Augusto,Fluminense,08-02-1988,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)', ' Atacante']"
+378634,935,Calegari,Famalicao,27-02-2002,Brasil,['Zagueiro (ZADireito)']
+360050,1232,David Terans,Fluminense,11-08-1994,Uruguai,"['Meia Atacante (C', ' Esquerdo', ' Direito)']"
+539740,1232,Victor Hugo,Fluminense,10-05-2004,,['Meiocampista']
+409247,1449,John Kennedy,Pachuca,18-05-2002,Brasil,"['Meia Atacante (Esquerdo)', ' Atacante']"
+521087,1232,Isaque,Fluminense,24-04-2007,,['Meiocampista']
+517831,1232,Jan Lucumí,Fluminense,11-02-2004,,['Atacante']
+397843,8938,Ramon,Cuiaba,13-03-2001,,['Zagueiro (ZAEsquerdo)']
+130462,8938,Walter,Cuiaba,18-11-1987,Brasil,['Goleiro']
+337888,8938,Marllon,Cuiaba,16-04-1992,,['Zagueiro (MCDireito)']
+373502,8938,Fernando Sobral,Cuiaba,17-12-1994,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+418965,8938,Matheus Alexandre,Cuiaba,07-04-1999,Brasil,"['Zagueiro (ZADireito)', ' Meio Campo (MDireito)']"
+444815,8938,Denilson,Cuiaba,23-03-2001,,['Meiocampista Defensivo']
+101478,8938,Bruno Alves,Cuiaba,16-04-1991,Brasil,['Zagueiro (MCDireito)']
+436763,8938,Isidro Pitta,Cuiaba,14-08-1999,Paraguai,['Atacante']
+141538,8938,Alan Empereur,Cuiaba,10-03-1994,Itália,['Zagueiro (MCDireito)']
+407306,8938,Derik Lacerda,Cuiaba,27-09-1999,Brasil,"['Meia Atacante (Esquerdo', ' Direito)', ' Atacante']"
+417706,8938,Max,Cuiaba,12-05-2001,,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+514432,8938,Railan,Cuiaba,10-03-2000,,['Zagueiro (ZADireito)']
+318252,8938,Lucas Mineiro,Cuiaba,24-02-1996,Brasil,['Meio Campo (MC)']
+317741,2343,Lucas Fernandes,AVS Futebol SAD,20-09-1997,Brasil,"['Meio Campo (MC', ' MEsquerdo)', ' Atacante']"
+295190,8938,Clayson,Cuiaba,19-03-1995,Brasil,"['Meia Atacante (C', ' Esquerdo', ' Direito)', ' Atacante']"
+380780,8938,Mateus Pasinato,Cuiaba,28-06-1992,Brasil,['Goleiro']
+295756,8938,Gustavo Sauer,Cuiaba,30-04-1993,Brasil,"['Meio Campo (MC', ' MEsquerdo', ' MDireito)']"
+279520,8938,Jonathan Cafú,Cuiaba,10-07-1991,Brasil,"['Meia Atacante (Direito)', ' Atacante']"
+445455,8938,Rikelme,Cuiaba,16-07-2003,,"['Zagueiro (ZAEsquerdo)', ' Meio Campo (MEsquerdo)']"
+121771,8938,Filipe Augusto,Cuiaba,12-08-1993,Brasil,['Meiocampista Defensivo']
+514395,8938,Guilherme Madruga,Cuiaba,11-11-2000,Brasil,['Defensor']
+514431,8938,Gabriel,Cuiaba,18-10-2003,,['Defensor']
+514396,8938,Eliel,Cuiaba,26-01-2003,,['Atacante']
+284655,8938,André Luís,Cuiaba,21-04-1997,Brasil,"['Meia Atacante (C', ' Direito)', ' Atacante']"
+476160,8938,Jadson,Cuiaba,10-08-2005,,['Defensor']
+521621,8938,Dudu,Cuiaba,02-04-2005,,['Meiocampista']
+544684,8938,David,Cuiaba,11-03-2007,,['Meiocampista']
+521627,8938,Kauan,Cuiaba,24-01-2006,Brasil,['Meiocampista']
+437728,8938,Juan Tavares,Cuiaba,25-04-2002,Brasil,['Zagueiro (ZAEsquerdo)']
+444922,8938,Allyson,Cuiaba,23-10-1990,,['Zagueiro (MCDireito)']
+513385,901,Luciano Giménez,Estudiantes,18-02-2000,Argentina,['Atacante']

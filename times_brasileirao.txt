@@ -1,0 +1,21 @@
+Time	URL
+Corinthians	https://br.whoscored.com/teams/1237/show/
+Bahia	https://br.whoscored.com/teams/1221/show/
+Vasco da Gama	https://br.whoscored.com/teams/1226/show/
+Atletico MG	https://br.whoscored.com/teams/1235/show/
+Criciuma	https://br.whoscored.com/teams/2066/show/
+Flamengo	https://br.whoscored.com/teams/1239/show/
+Sao Paulo	https://br.whoscored.com/teams/1224/show/
+Juventude	https://br.whoscored.com/teams/1220/show/
+Vitoria	https://br.whoscored.com/teams/1238/show/
+Gremio	https://br.whoscored.com/teams/1244/show/
+Atletico GO	https://br.whoscored.com/teams/6368/show/
+Fortaleza	https://br.whoscored.com/teams/2065/show/
+Internacional	https://br.whoscored.com/teams/1219/show/
+Botafogo RJ	https://br.whoscored.com/teams/1227/show/
+Cruzeiro	https://br.whoscored.com/teams/1230/show/
+Palmeiras	https://br.whoscored.com/teams/1234/show/
+Athletico Paranaense	https://br.whoscored.com/teams/1243/show/
+Red Bull Bragantino	https://br.whoscored.com/teams/5438/show/
+Fluminense	https://br.whoscored.com/teams/1232/show/
+Cuiaba	https://br.whoscored.com/teams/8938/show/

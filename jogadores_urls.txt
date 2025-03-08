@@ -1,0 +1,713 @@
+Nome do Jogador	ID do Jogador	URL
+Memphis Depay	110154	https://br.whoscored.com/players/110154/show/memphis-depay
+Rodrigo Garro	432685	https://br.whoscored.com/players/432685/show/rodrigo-garro
+Yuri Alberto	348261	https://br.whoscored.com/players/348261/show/yuri-alberto
+Matheus Bidu	468006	https://br.whoscored.com/players/468006/show/matheus-bidu
+Carlos Miguel	442459	https://br.whoscored.com/players/442459/show/carlos-miguel
+Hugo Souza	399247	https://br.whoscored.com/players/399247/show/hugo-souza
+Wesley	439650	https://br.whoscored.com/players/439650/show/wesley
+André Ramalho	98101	https://br.whoscored.com/players/98101/show/andr%C3%A9-ramalho
+Raniele	420319	https://br.whoscored.com/players/420319/show/raniele
+Matheus França	398130	https://br.whoscored.com/players/398130/show/matheus-fran%C3%A7a
+Cacá	361471	https://br.whoscored.com/players/361471/show/cac%C3%A1
+Hugo	436560	https://br.whoscored.com/players/436560/show/hugo
+Ángel Romero	228061	https://br.whoscored.com/players/228061/show/%C3%A1ngel-romero
+André Carrillo	97635	https://br.whoscored.com/players/97635/show/andr%C3%A9-carrillo
+Raul Gustavo	406274	https://br.whoscored.com/players/406274/show/raul-gustavo
+Gustavo Henrique	114595	https://br.whoscored.com/players/114595/show/gustavo-henrique
+Talles Magno	375861	https://br.whoscored.com/players/375861/show/talles-magno
+Charles	321849	https://br.whoscored.com/players/321849/show/charles
+Igor Coronado	101395	https://br.whoscored.com/players/101395/show/igor-coronado
+Félix Torres	417722	https://br.whoscored.com/players/417722/show/f%C3%A9lix-torres
+Cássio	40345	https://br.whoscored.com/players/40345/show/c%C3%A1ssio
+Breno Bidon	441410	https://br.whoscored.com/players/441410/show/breno-bidon
+Alex Santana	137129	https://br.whoscored.com/players/137129/show/alex-santana
+Fágner	102166	https://br.whoscored.com/players/102166/show/f%C3%A1gner
+Matheus Donelli	409627	https://br.whoscored.com/players/409627/show/matheus-donelli
+Ryan Gustavo	471633	https://br.whoscored.com/players/471633/show/ryan-gustavo
+José Martínez	393097	https://br.whoscored.com/players/393097/show/jos%C3%A9-mart%C3%ADnez
+Gustavo Silva	331611	https://br.whoscored.com/players/331611/show/gustavo-silva
+Pedro Henrique	110424	https://br.whoscored.com/players/110424/show/pedro-henrique
+Gabriel Moscardo	478349	https://br.whoscored.com/players/478349/show/gabriel-moscardo
+Arthur Sousa	459091	https://br.whoscored.com/players/459091/show/arthur-sousa
+Fausto Vera	366428	https://br.whoscored.com/players/366428/show/fausto-vera
+Paulinho	36399	https://br.whoscored.com/players/36399/show/paulinho
+Giovane	436627	https://br.whoscored.com/players/436627/show/giovane
+João Pedro	478348	https://br.whoscored.com/players/478348/show/jo%C3%A3o-pedro
+Pedro Raúl	398132	https://br.whoscored.com/players/398132/show/pedro-ra%C3%BAl
+Kayke	478350	https://br.whoscored.com/players/478350/show/kayke
+Caetano	364717	https://br.whoscored.com/players/364717/show/caetano
+Héctor Hernández	141293	https://br.whoscored.com/players/141293/show/h%C3%A9ctor-hern%C3%A1ndez
+Léo Mana	441411	https://br.whoscored.com/players/441411/show/l%C3%A9o-mana
+Matheus Araújo	410869	https://br.whoscored.com/players/410869/show/matheus-ara%C3%BAjo
+Maycon	317789	https://br.whoscored.com/players/317789/show/maycon
+Guilherme Biro	440960	https://br.whoscored.com/players/440960/show/guilherme-biro
+Matheuzinho	398130	https://br.whoscored.com/players/398130/show/matheuzinho
+Gabriel Xavier	467987	https://br.whoscored.com/players/467987/show/gabriel-xavier
+Gilberto	119542	https://br.whoscored.com/players/119542/show/gilberto
+Luciano Juba	397517	https://br.whoscored.com/players/397517/show/luciano-juba
+Éverton Ribeiro	101467	https://br.whoscored.com/players/101467/show/%C3%A9verton-ribeiro
+Marcos Felipe	134681	https://br.whoscored.com/players/134681/show/marcos-felipe
+Santiago Arias	88112	https://br.whoscored.com/players/88112/show/santiago-arias
+Cauly	342058	https://br.whoscored.com/players/342058/show/cauly
+David Duarte	279581	https://br.whoscored.com/players/279581/show/david-duarte
+Jean Lucas	355659	https://br.whoscored.com/players/355659/show/jean-lucas
+Thaciano	298449	https://br.whoscored.com/players/298449/show/thaciano
+Everaldo	108660	https://br.whoscored.com/players/108660/show/everaldo
+Luciano Rodríguez	477777	https://br.whoscored.com/players/477777/show/luciano-rodr%C3%ADguez
+Danilo Fernandes	74485	https://br.whoscored.com/players/74485/show/danilo-fernandes
+Kanu	337247	https://br.whoscored.com/players/337247/show/kanu
+Ademir	356785	https://br.whoscored.com/players/356785/show/ademir
+Biel	416802	https://br.whoscored.com/players/416802/show/biel
+Caio Alexandre	388735	https://br.whoscored.com/players/388735/show/caio-alexandre
+Rezende	467985	https://br.whoscored.com/players/467985/show/rezende
+Óscar Estupiñán	343090	https://br.whoscored.com/players/343090/show/%C3%B3scar-estupi%C3%B1%C3%A1n
+Carlos de Pena	296379	https://br.whoscored.com/players/296379/show/carlos-de-pena
+Víctor Cuesta	125957	https://br.whoscored.com/players/125957/show/v%C3%ADctor-cuesta
+Iago Borduchi	355705	https://br.whoscored.com/players/355705/show/iago-borduchi
+Nicolás Acevedo	396067	https://br.whoscored.com/players/396067/show/nicol%C3%A1s-acevedo
+Adriel	417913	https://br.whoscored.com/players/417913/show/adriel
+Rafael Ratão	136727	https://br.whoscored.com/players/136727/show/rafael-rat%C3%A3o
+Tiago	532977	https://br.whoscored.com/players/532977/show/tiago
+Cicinho	110440	https://br.whoscored.com/players/110440/show/cicinho
+Ruan Pablo	534217	https://br.whoscored.com/players/534217/show/ruan-pablo
+Yago Felipe	243275	https://br.whoscored.com/players/243275/show/yago-felipe
+Vitor Hugo	111227	https://br.whoscored.com/players/111227/show/vitor-hugo
+Marcos Victor	436527	https://br.whoscored.com/players/436527/show/marcos-victor
+Lyncon	471644	https://br.whoscored.com/players/471644/show/lyncon
+Pablo Vegetti	303689	https://br.whoscored.com/players/303689/show/pablo-vegetti
+Lucas Piton	373513	https://br.whoscored.com/players/373513/show/lucas-piton
+Gabriel	472121	https://br.whoscored.com/players/472121/show/gabriel
+Paulo Henrique	416790	https://br.whoscored.com/players/416790/show/paulo-henrique
+Adson	416895	https://br.whoscored.com/players/416895/show/adson
+Maicon	43931	https://br.whoscored.com/players/43931/show/maicon
+Léo Jardim	241049	https://br.whoscored.com/players/241049/show/l%C3%A9o-jardim
+Mateus Carvalho	482037	https://br.whoscored.com/players/482037/show/mateus-carvalho
+David	317762	https://br.whoscored.com/players/317762/show/david
+Alex Teixeira	40748	https://br.whoscored.com/players/40748/show/alex-teixeira
+Victor Luís	149574	https://br.whoscored.com/players/149574/show/victor-lu%C3%ADs
+João Victor	373848	https://br.whoscored.com/players/373848/show/jo%C3%A3o-victor
+Dimitri Payet	14058	https://br.whoscored.com/players/14058/show/dimitri-payet
+Hugo Moura	373449	https://br.whoscored.com/players/373449/show/hugo-moura
+Léo	137316	https://br.whoscored.com/players/137316/show/l%C3%A9o
+Philippe Coutinho	80767	https://br.whoscored.com/players/80767/show/philippe-coutinho
+José Rodríguez	388576	https://br.whoscored.com/players/388576/show/jos%C3%A9-rodr%C3%ADguez
+Emerson Rodríguez	433514	https://br.whoscored.com/players/433514/show/emerson-rodr%C3%ADguez
+João Pedro	515816	https://br.whoscored.com/players/515816/show/jo%C3%A3o-pedro
+Guilherme Estrella	515814	https://br.whoscored.com/players/515814/show/guilherme-estrella
+Juan Sforza	405839	https://br.whoscored.com/players/405839/show/juan-sforza
+Rossi	337815	https://br.whoscored.com/players/337815/show/rossi
+Jair	137484	https://br.whoscored.com/players/137484/show/jair
+Leandrinho	515815	https://br.whoscored.com/players/515815/show/leandrinho
+Rayan	472122	https://br.whoscored.com/players/472122/show/rayan
+Pablo Galdames	142436	https://br.whoscored.com/players/142436/show/pablo-galdames
+Praxedes	397505	https://br.whoscored.com/players/397505/show/praxedes
+Zé Gabriel	378588	https://br.whoscored.com/players/378588/show/z%C3%A9-gabriel
+Robert Rojas	369266	https://br.whoscored.com/players/369266/show/robert-rojas
+Gary Medel	29390	https://br.whoscored.com/players/29390/show/gary-medel
+Maxime Dominguez	486855	https://br.whoscored.com/players/486855/show/maxime-dominguez
+Paulinho Paula	383997	https://br.whoscored.com/players/383997/show/paulinho-paula
+Erick Marcus	468025	https://br.whoscored.com/players/468025/show/erick-marcus
+Bruno Lopes	515817	https://br.whoscored.com/players/515817/show/bruno-lopes
+Jean Meneses	417742	https://br.whoscored.com/players/417742/show/jean-meneses
+Maxsuell Alegria	544692	https://br.whoscored.com/players/544692/show/maxsuell-alegria
+Clayton	436559	https://br.whoscored.com/players/436559/show/clayton
+Serginho	423092	https://br.whoscored.com/players/423092/show/serginho
+Souza	40989	https://br.whoscored.com/players/40989/show/souza
+Hulk	16886	https://br.whoscored.com/players/16886/show/hulk
+Rubens	407747	https://br.whoscored.com/players/407747/show/rubens
+Júnior Alonso	202096	https://br.whoscored.com/players/202096/show/j%C3%BAnior-alonso
+Gustavo Scarpa	149738	https://br.whoscored.com/players/149738/show/gustavo-scarpa
+Guilherme Arana	241822	https://br.whoscored.com/players/241822/show/guilherme-arana
+Paulinho	339845	https://br.whoscored.com/players/339845/show/paulinho
+Jemerson	130435	https://br.whoscored.com/players/130435/show/jemerson
+Matheus Mendes	397566	https://br.whoscored.com/players/397566/show/matheus-mendes
+Otávio	146764	https://br.whoscored.com/players/146764/show/ot%C3%A1vio
+Renzo Saravia	127618	https://br.whoscored.com/players/127618/show/renzo-saravia
+Eduardo Vargas	35237	https://br.whoscored.com/players/35237/show/eduardo-vargas
+Bruno Fuchs	379229	https://br.whoscored.com/players/379229/show/bruno-fuchs
+Cadu	438312	https://br.whoscored.com/players/438312/show/cadu
+Everson	355663	https://br.whoscored.com/players/355663/show/everson
+Alan Franco	334972	https://br.whoscored.com/players/334972/show/alan-franco
+Rodrigo Battaglia	134739	https://br.whoscored.com/players/134739/show/rodrigo-battaglia
+Alisson	475166	https://br.whoscored.com/players/475166/show/alisson
+Brahian Palacios	445346	https://br.whoscored.com/players/445346/show/brahian-palacios
+Igor Rabello	246393	https://br.whoscored.com/players/246393/show/igor-rabello
+Rômulo	429544	https://br.whoscored.com/players/429544/show/r%C3%B4mulo
+Matías Zaracho	332151	https://br.whoscored.com/players/332151/show/mat%C3%ADas-zaracho
+Deyverson	135641	https://br.whoscored.com/players/135641/show/deyverson
+Igor Gomes	349214	https://br.whoscored.com/players/349214/show/igor-gomes
+Gabriel Delfim	445265	https://br.whoscored.com/players/445265/show/gabriel-delfim
+Bernard	101642	https://br.whoscored.com/players/101642/show/bernard
+Mariano	40771	https://br.whoscored.com/players/40771/show/mariano
+Lyanco	284115	https://br.whoscored.com/players/284115/show/lyanco
+Mauricio Lemos	287049	https://br.whoscored.com/players/287049/show/mauricio-lemos
+Pedrinho	337813	https://br.whoscored.com/players/337813/show/pedrinho
+Paulo Vitor	479726	https://br.whoscored.com/players/479726/show/paulo-vitor
+Robert Santos	523260	https://br.whoscored.com/players/523260/show/robert-santos
+Alan Kardec	29194	https://br.whoscored.com/players/29194/show/alan-kardec
+Caio Maia	475167	https://br.whoscored.com/players/475167/show/caio-maia
+Isaac	475168	https://br.whoscored.com/players/475168/show/isaac
+Vitinho	445266	https://br.whoscored.com/players/445266/show/vitinho
+Renato Kayzer	296479	https://br.whoscored.com/players/296479/show/renato-kayzer
+Rodrigo	513490	https://br.whoscored.com/players/513490/show/rodrigo
+Marcelo Hermes	255362	https://br.whoscored.com/players/255362/show/marcelo-hermes
+Wilker Ángel	283009	https://br.whoscored.com/players/283009/show/wilker-%C3%A1ngel
+Yannick Bolasie	69844	https://br.whoscored.com/players/69844/show/yannick-bolasie
+Tobias Figueiredo	261974	https://br.whoscored.com/players/261974/show/tobias-figueiredo
+Claudinho	513492	https://br.whoscored.com/players/513492/show/claudinho
+Matheusinho	318247	https://br.whoscored.com/players/318247/show/matheusinho
+Barreto	241825	https://br.whoscored.com/players/241825/show/barreto
+Fellipe Mateus	513499	https://br.whoscored.com/players/513499/show/fellipe-mateus
+Dudu	329404	https://br.whoscored.com/players/329404/show/dudu
+Newton	471629	https://br.whoscored.com/players/471629/show/newton
+Higor Meritão	491556	https://br.whoscored.com/players/491556/show/higor-merit%C3%A3o
+Gustavo	101993	https://br.whoscored.com/players/101993/show/gustavo
+Allano	281935	https://br.whoscored.com/players/281935/show/allano
+Ronald	397897	https://br.whoscored.com/players/397897/show/ronald
+Patrick de Paula	397850	https://br.whoscored.com/players/397850/show/patrick-de-paula
+Alisson	321245	https://br.whoscored.com/players/321245/show/alisson
+Miguel Trauco	97813	https://br.whoscored.com/players/97813/show/miguel-trauco
+Arthur Caíke	130508	https://br.whoscored.com/players/130508/show/arthur-ca%C3%ADke
+Jhonata Robert	384424	https://br.whoscored.com/players/384424/show/jhonata-robert
+Yerson Candelo	445336	https://br.whoscored.com/players/445336/show/yerson-candelo
+Walisson Maia	102254	https://br.whoscored.com/players/102254/show/walisson-maia
+Jonathan	338378	https://br.whoscored.com/players/338378/show/jonathan
+Marquinhos Gabriel	75971	https://br.whoscored.com/players/75971/show/marquinhos-gabriel
+Felipe Vizeu	317654	https://br.whoscored.com/players/317654/show/felipe-vizeu
+Éder	22377	https://br.whoscored.com/players/22377/show/%C3%A9der
+Baltasar Barcia	472177	https://br.whoscored.com/players/472177/show/baltasar-barcia
+Pedro Rocha	279479	https://br.whoscored.com/players/279479/show/pedro-rocha
+Werik Popó	454771	https://br.whoscored.com/players/454771/show/werik-pop%C3%B3
+João Carlos	513503	https://br.whoscored.com/players/513503/show/jo%C3%A3o-carlos
+Eliédson	518258	https://br.whoscored.com/players/518258/show/eli%C3%A9dson
+Eduardo Melo	513505	https://br.whoscored.com/players/513505/show/eduardo-melo
+Giorgian de Arrascaeta	128627	https://br.whoscored.com/players/128627/show/giorgian-de-arrascaeta
+Pedro	318475	https://br.whoscored.com/players/318475/show/pedro
+Luiz Araújo	317743	https://br.whoscored.com/players/317743/show/luiz-ara%C3%BAjo
+Guilherme Gomes	515797	https://br.whoscored.com/players/515797/show/guilherme-gomes
+Nicolás de la Cruz	345389	https://br.whoscored.com/players/345389/show/nicol%C3%A1s-de-la-cruz
+Gerson	242791	https://br.whoscored.com/players/242791/show/gerson
+Alex Sandro	100995	https://br.whoscored.com/players/100995/show/alex-sandro
+Wesley	429481	https://br.whoscored.com/players/429481/show/wesley
+Felipe Teresa	520942	https://br.whoscored.com/players/520942/show/felipe-teresa
+Everton	146760	https://br.whoscored.com/players/146760/show/everton
+Gonzalo Plata	382206	https://br.whoscored.com/players/382206/show/gonzalo-plata
+Matheus Cunha	429548	https://br.whoscored.com/players/429548/show/matheus-cunha
+Bruno Henrique	279575	https://br.whoscored.com/players/279575/show/bruno-henrique
+Erick Pulgar	117055	https://br.whoscored.com/players/117055/show/erick-pulgar
+Michael	373530	https://br.whoscored.com/players/373530/show/michael
+Ayrton Lucas	297581	https://br.whoscored.com/players/297581/show/ayrton-lucas
+Matheus Gonçalves	445478	https://br.whoscored.com/players/445478/show/matheus-gon%C3%A7alves
+Léo Ortiz	355684	https://br.whoscored.com/players/355684/show/l%C3%A9o-ortiz
+Fabrício Bruno	317681	https://br.whoscored.com/players/317681/show/fabr%C3%ADcio-bruno
+Guillermo Varela	145385	https://br.whoscored.com/players/145385/show/guillermo-varela
+Agustín Rossi	303902	https://br.whoscored.com/players/303902/show/agust%C3%ADn-rossi
+Carlos Alcaraz	391348	https://br.whoscored.com/players/391348/show/carlos-alcaraz
+David Luiz	27586	https://br.whoscored.com/players/27586/show/david-luiz
+Igor Jesus	441421	https://br.whoscored.com/players/441421/show/igor-jesus
+Lorran	471043	https://br.whoscored.com/players/471043/show/lorran
+Evertton Araújo	470938	https://br.whoscored.com/players/470938/show/evertton-ara%C3%BAjo
+Léo Pereira	146761	https://br.whoscored.com/players/146761/show/l%C3%A9o-pereira
+Werton	417968	https://br.whoscored.com/players/417968/show/werton
+Matías Viña	397846	https://br.whoscored.com/players/397846/show/mat%C3%ADas-vi%C3%B1a
+Gabriel Barbosa	130886	https://br.whoscored.com/players/130886/show/gabriel-barbosa
+Allan	295838	https://br.whoscored.com/players/295838/show/allan
+Carlinhos	328334	https://br.whoscored.com/players/328334/show/carlinhos
+Victor Hugo	438188	https://br.whoscored.com/players/438188/show/victor-hugo
+João Victor	520938	https://br.whoscored.com/players/520938/show/jo%C3%A3o-victor
+Daniel Sales	471041	https://br.whoscored.com/players/471041/show/daniel-sales
+Shola Ogundana	520941	https://br.whoscored.com/players/520941/show/shola-ogundana
+Wallace Yan	472428	https://br.whoscored.com/players/472428/show/wallace-yan
+Cleiton	426217	https://br.whoscored.com/players/426217/show/cleiton
+Lucas Moura	92508	https://br.whoscored.com/players/92508/show/lucas-moura
+Sabino	397496	https://br.whoscored.com/players/397496/show/sabino
+Ferreira	384431	https://br.whoscored.com/players/384431/show/ferreira
+Ruan Tressoldi	349496	https://br.whoscored.com/players/349496/show/ruan-tressoldi
+Alisson	130449	https://br.whoscored.com/players/130449/show/alisson
+Luciano	121009	https://br.whoscored.com/players/121009/show/luciano
+Jonathan Calleri	133445	https://br.whoscored.com/players/133445/show/jonathan-calleri
+Nahuel Ferraresi	402736	https://br.whoscored.com/players/402736/show/nahuel-ferraresi
+Welington	389158	https://br.whoscored.com/players/389158/show/welington
+Rafael	64096	https://br.whoscored.com/players/64096/show/rafael
+Robert Arboleda	318478	https://br.whoscored.com/players/318478/show/robert-arboleda
+William	509471	https://br.whoscored.com/players/509471/show/william
+Luiz Gustavo	43369	https://br.whoscored.com/players/43369/show/luiz-gustavo
+Pablo Maia	428259	https://br.whoscored.com/players/428259/show/pablo-maia
+Diego Costa	383150	https://br.whoscored.com/players/383150/show/diego-costa
+Igor Vinícius	373429	https://br.whoscored.com/players/373429/show/igor-vin%C3%ADcius
+Erick	360373	https://br.whoscored.com/players/360373/show/erick
+Jandrei	337814	https://br.whoscored.com/players/337814/show/jandrei
+Michel Araújo	397584	https://br.whoscored.com/players/397584/show/michel-ara%C3%BAjo
+Wellington Rato	402981	https://br.whoscored.com/players/402981/show/wellington-rato
+Alan Franco	334966	https://br.whoscored.com/players/334966/show/alan-franco
+Liziero	349213	https://br.whoscored.com/players/349213/show/liziero
+Damián Bobadilla	445709	https://br.whoscored.com/players/445709/show/dami%C3%A1n-bobadilla
+Marcos Antônio	383781	https://br.whoscored.com/players/383781/show/marcos-ant%C3%B4nio
+André Silva	351703	https://br.whoscored.com/players/351703/show/andr%C3%A9-silva
+Jamal Lewis	350138	https://br.whoscored.com/players/350138/show/jamal-lewis
+Patryck	389161	https://br.whoscored.com/players/389161/show/patryck
+Rodrigo Nestor	389163	https://br.whoscored.com/players/389163/show/rodrigo-nestor
+João Moreira	439643	https://br.whoscored.com/players/439643/show/jo%C3%A3o-moreira
+Rafinha	13755	https://br.whoscored.com/players/13755/show/rafinha
+Giuliano Galoppo	352966	https://br.whoscored.com/players/352966/show/giuliano-galoppo
+Juan	389154	https://br.whoscored.com/players/389154/show/juan
+Rodriguinho	441925	https://br.whoscored.com/players/441925/show/rodriguinho
+Santiago Longo	462993	https://br.whoscored.com/players/462993/show/santiago-longo
+James Rodríguez	71182	https://br.whoscored.com/players/71182/show/james-rodr%C3%ADguez
+Igão	531437	https://br.whoscored.com/players/531437/show/ig%C3%A3o
+Ryan Francisco	521213	https://br.whoscored.com/players/521213/show/ryan-francisco
+Young	439867	https://br.whoscored.com/players/439867/show/young
+Henrique	518044	https://br.whoscored.com/players/518044/show/henrique
+Ronaldo	299394	https://br.whoscored.com/players/299394/show/ronaldo
+João Lucas	376939	https://br.whoscored.com/players/376939/show/jo%C3%A3o-lucas
+Gabriel Vasconcelos	101657	https://br.whoscored.com/players/101657/show/gabriel-vasconcelos
+Caíque	514437	https://br.whoscored.com/players/514437/show/ca%C3%ADque
+Lucas Barbosa	436503	https://br.whoscored.com/players/436503/show/lucas-barbosa
+Jádson	114096	https://br.whoscored.com/players/114096/show/j%C3%A1dson
+Yan Souto	436564	https://br.whoscored.com/players/436564/show/yan-souto
+Danilo Boza	417439	https://br.whoscored.com/players/417439/show/danilo-boza
+Edson Carioca	448649	https://br.whoscored.com/players/448649/show/edson-carioca
+Rodrigo Sam	279540	https://br.whoscored.com/players/279540/show/rodrigo-sam
+Alan Ruschel	146674	https://br.whoscored.com/players/146674/show/alan-ruschel
+Nenê	14195	https://br.whoscored.com/players/14195/show/nen%C3%AA
+Erick Farias	468023	https://br.whoscored.com/players/468023/show/erick-farias
+Mateus Claus	397836	https://br.whoscored.com/players/397836/show/mateus-claus
+Ewerthon	403654	https://br.whoscored.com/players/403654/show/ewerthon
+Jean Carlos	328510	https://br.whoscored.com/players/328510/show/jean-carlos
+Gabriel Inocêncio	479765	https://br.whoscored.com/players/479765/show/gabriel-inoc%C3%AAncio
+Luís Oyama	436623	https://br.whoscored.com/players/436623/show/lu%C3%ADs-oyama
+Kleiton	426063	https://br.whoscored.com/players/426063/show/kleiton
+Mandaca	416897	https://br.whoscored.com/players/416897/show/mandaca
+Marcelinho	402835	https://br.whoscored.com/players/402835/show/marcelinho
+Zé Marcos	383601	https://br.whoscored.com/players/383601/show/z%C3%A9-marcos
+Gilberto	101698	https://br.whoscored.com/players/101698/show/gilberto
+Gabriel Taliari	357902	https://br.whoscored.com/players/357902/show/gabriel-taliari
+Ronie Carrillo	469885	https://br.whoscored.com/players/469885/show/ronie-carrillo
+Lucas Freitas	409317	https://br.whoscored.com/players/409317/show/lucas-freitas
+Diego Gonçalves	135223	https://br.whoscored.com/players/135223/show/diego-gon%C3%A7alves
+Thiago Conti	357094	https://br.whoscored.com/players/357094/show/thiago-conti
+Abner	513507	https://br.whoscored.com/players/513507/show/abner
+Peixoto	525965	https://br.whoscored.com/players/525965/show/peixoto
+Rildo	397582	https://br.whoscored.com/players/397582/show/rildo
+David da Hora	439701	https://br.whoscored.com/players/439701/show/david-da-hora
+Dudu Vieira	537102	https://br.whoscored.com/players/537102/show/dudu-vieira
+Davi Góes	519097	https://br.whoscored.com/players/519097/show/davi-g%C3%B3es
+Ruan	455082	https://br.whoscored.com/players/455082/show/ruan
+Lucas Esteves	381686	https://br.whoscored.com/players/381686/show/lucas-esteves
+Matheuzinho	280693	https://br.whoscored.com/players/280693/show/matheuzinho
+Alerrandro	355714	https://br.whoscored.com/players/355714/show/alerrandro
+Willean Lepo	358560	https://br.whoscored.com/players/358560/show/willean-lepo
+Wagner Leonardo	373974	https://br.whoscored.com/players/373974/show/wagner-leonardo
+Neris	317749	https://br.whoscored.com/players/317749/show/neris
+Raúl Cáceres	87833	https://br.whoscored.com/players/87833/show/ra%C3%BAl-c%C3%A1ceres
+Willian Oliveira	130887	https://br.whoscored.com/players/130887/show/willian-oliveira
+Edu	382262	https://br.whoscored.com/players/382262/show/edu
+Lucas Arcanjo	452638	https://br.whoscored.com/players/452638/show/lucas-arcanjo
+Ricardo Ryller	352932	https://br.whoscored.com/players/352932/show/ricardo-ryller
+Filipe Machado	320349	https://br.whoscored.com/players/320349/show/filipe-machado
+Patric Calmon	479713	https://br.whoscored.com/players/479713/show/patric-calmon
+Carlos Eduardo	280246	https://br.whoscored.com/players/280246/show/carlos-eduardo
+Camutanga	442750	https://br.whoscored.com/players/442750/show/camutanga
+Janderson	472422	https://br.whoscored.com/players/472422/show/janderson
+Léo Naldi	518496	https://br.whoscored.com/players/518496/show/l%C3%A9o-naldi
+Osvaldo	81716	https://br.whoscored.com/players/81716/show/osvaldo
+Muriel	63780	https://br.whoscored.com/players/63780/show/muriel
+Mateus Gonçalves	363101	https://br.whoscored.com/players/363101/show/mateus-gon%C3%A7alves
+Luan Silva	360288	https://br.whoscored.com/players/360288/show/luan-silva
+Iury Castilho	286785	https://br.whoscored.com/players/286785/show/iury-castilho
+Caio Vinícius	363173	https://br.whoscored.com/players/363173/show/caio-vin%C3%ADcius
+Zé Hugo	437414	https://br.whoscored.com/players/437414/show/z%C3%A9-hugo
+Daniel Júnior	468008	https://br.whoscored.com/players/468008/show/daniel-j%C3%BAnior
+Zeca	147833	https://br.whoscored.com/players/147833/show/zeca
+Rodrigo Andrade	355658	https://br.whoscored.com/players/355658/show/rodrigo-andrade
+Fábio	513516	https://br.whoscored.com/players/513516/show/f%C3%A1bio
+Bruno Uvini	92894	https://br.whoscored.com/players/92894/show/bruno-uvini
+Jean Mota	110601	https://br.whoscored.com/players/110601/show/jean-mota
+Reynaldo	337262	https://br.whoscored.com/players/337262/show/reynaldo
+Everaldo	360371	https://br.whoscored.com/players/360371/show/everaldo
+Eryc Castillo	445442	https://br.whoscored.com/players/445442/show/eryc-castillo
+Luiz Adriano	14105	https://br.whoscored.com/players/14105/show/luiz-adriano
+Lawan	533251	https://br.whoscored.com/players/533251/show/lawan
+Dudu	448652	https://br.whoscored.com/players/448652/show/dudu
+Luis Miguel	533252	https://br.whoscored.com/players/533252/show/luis-miguel
+Léo Gamalho	102175	https://br.whoscored.com/players/102175/show/l%C3%A9o-gamalho
+Pablo	523271	https://br.whoscored.com/players/523271/show/pablo
+José Breno	534214	https://br.whoscored.com/players/534214/show/jos%C3%A9-breno
+Rodrigo Ely	97262	https://br.whoscored.com/players/97262/show/rodrigo-ely
+Yeferson Soteldo	260689	https://br.whoscored.com/players/260689/show/yeferson-soteldo
+Martin Braithwaite	73494	https://br.whoscored.com/players/73494/show/martin-braithwaite
+Mathías Villasanti	344767	https://br.whoscored.com/players/344767/show/math%C3%ADas-villasanti
+Cuiabano	472116	https://br.whoscored.com/players/472116/show/cuiabano
+Agustín Marchesín	125622	https://br.whoscored.com/players/125622/show/agust%C3%ADn-marches%C3%ADn
+Franco Cristaldo	149572	https://br.whoscored.com/players/149572/show/franco-cristaldo
+Reinaldo	110930	https://br.whoscored.com/players/110930/show/reinaldo
+Rodrigo Caio	102464	https://br.whoscored.com/players/102464/show/rodrigo-caio
+Gustavo Nunes	492869	https://br.whoscored.com/players/492869/show/gustavo-nunes
+Zé Guilherme	476466	https://br.whoscored.com/players/476466/show/z%C3%A9-guilherme
+Miguel Monsalve	469349	https://br.whoscored.com/players/469349/show/miguel-monsalve
+Walter Kannemann	125450	https://br.whoscored.com/players/125450/show/walter-kannemann
+João Pedro	243212	https://br.whoscored.com/players/243212/show/jo%C3%A3o-pedro
+Geromel	31975	https://br.whoscored.com/players/31975/show/geromel
+Dodi	253963	https://br.whoscored.com/players/253963/show/dodi
+Gustavo Martins	450865	https://br.whoscored.com/players/450865/show/gustavo-martins
+Cristian Pavón	236295	https://br.whoscored.com/players/236295/show/cristian-pav%C3%B3n
+Mayk	361476	https://br.whoscored.com/players/361476/show/mayk
+Alexander Aravena	469277	https://br.whoscored.com/players/469277/show/alexander-aravena
+Pepê	365617	https://br.whoscored.com/players/365617/show/pep%C3%AA
+Caíque	318303	https://br.whoscored.com/players/318303/show/ca%C3%ADque
+Rafael Cabral	74554	https://br.whoscored.com/players/74554/show/rafael-cabral
+Felipe Carballo	446317	https://br.whoscored.com/players/446317/show/felipe-carballo
+Fábio	44031	https://br.whoscored.com/players/44031/show/f%C3%A1bio
+Natã Felipe	468012	https://br.whoscored.com/players/468012/show/nat%C3%A3-felipe
+Edenílson	102256	https://br.whoscored.com/players/102256/show/eden%C3%ADlson
+Du Queiroz	418966	https://br.whoscored.com/players/418966/show/du-queiroz
+Igor	517833	https://br.whoscored.com/players/517833/show/igor
+Diego Costa	24248	https://br.whoscored.com/players/24248/show/diego-costa
+Nathan	142410	https://br.whoscored.com/players/142410/show/nathan
+Matías Arezo	432210	https://br.whoscored.com/players/432210/show/mat%C3%ADas-arezo
+João Pedro	86935	https://br.whoscored.com/players/86935/show/jo%C3%A3o-pedro
+Everton Galdino	471046	https://br.whoscored.com/players/471046/show/everton-galdino
+Alysson Edward	520919	https://br.whoscored.com/players/520919/show/alysson-edward
+Nathan Fernandes	482467	https://br.whoscored.com/players/482467/show/nathan-fernandes
+Ronald	475205	https://br.whoscored.com/players/475205/show/ronald
+Marcao	448770	https://br.whoscored.com/players/448770/show/marcao
+Guilherme Romão	453459	https://br.whoscored.com/players/453459/show/guilherme-rom%C3%A3o
+Ronaldo	330555	https://br.whoscored.com/players/330555/show/ronaldo
+Alejo Cruz	446364	https://br.whoscored.com/players/446364/show/alejo-cruz
+Luiz Fernando	337976	https://br.whoscored.com/players/337976/show/luiz-fernando
+Adriano Martins	514393	https://br.whoscored.com/players/514393/show/adriano-martins
+Alix	441930	https://br.whoscored.com/players/441930/show/alix
+Gabriel Baralhas	404487	https://br.whoscored.com/players/404487/show/gabriel-baralhas
+Joel Campbell	95977	https://br.whoscored.com/players/95977/show/joel-campbell
+Rhaldney	442751	https://br.whoscored.com/players/442751/show/rhaldney
+Luiz Felipe	317668	https://br.whoscored.com/players/317668/show/luiz-felipe
+Shaylon	337301	https://br.whoscored.com/players/337301/show/shaylon
+Jorginho	146665	https://br.whoscored.com/players/146665/show/jorginho
+Bruno Tubarão	417929	https://br.whoscored.com/players/417929/show/bruno-tubar%C3%A3o
+Pedro Henrique	132882	https://br.whoscored.com/players/132882/show/pedro-henrique
+Janderson	373654	https://br.whoscored.com/players/373654/show/janderson
+Roni	397965	https://br.whoscored.com/players/397965/show/roni
+Eli	523261	https://br.whoscored.com/players/523261/show/eli
+Rafael Haller	517094	https://br.whoscored.com/players/517094/show/rafael-haller
+Philipe Sampaio	235735	https://br.whoscored.com/players/235735/show/philipe-sampaio
+Pedro Rangel	407469	https://br.whoscored.com/players/407469/show/pedro-rangel
+Maguinho	436566	https://br.whoscored.com/players/436566/show/maguinho
+Gonzalo Freitas	344723	https://br.whoscored.com/players/344723/show/gonzalo-freitas
+Lucas Kal	317747	https://br.whoscored.com/players/317747/show/lucas-kal
+Jean Carlos	538529	https://br.whoscored.com/players/538529/show/jean-carlos
+Jan Hurtado	363561	https://br.whoscored.com/players/363561/show/jan-hurtado
+Yony González	373524	https://br.whoscored.com/players/373524/show/yony-gonz%C3%A1lez
+Derek	523263	https://br.whoscored.com/players/523263/show/derek
+Emiliano Rodríguez	474116	https://br.whoscored.com/players/474116/show/emiliano-rodr%C3%ADguez
+Daniel Simões	318474	https://br.whoscored.com/players/318474/show/daniel-sim%C3%B5es
+Matías Lacava	426885	https://br.whoscored.com/players/426885/show/mat%C3%ADas-lacava
+Max	523262	https://br.whoscored.com/players/523262/show/max
+Luiz Gustavo	525961	https://br.whoscored.com/players/525961/show/luiz-gustavo
+Randerson	525963	https://br.whoscored.com/players/525963/show/randerson
+Vágner Love	10116	https://br.whoscored.com/players/10116/show/v%C3%A1gner-love
+Gustavo Campanharo	243380	https://br.whoscored.com/players/243380/show/gustavo-campanharo
+Geovane	539665	https://br.whoscored.com/players/539665/show/geovane
+Mateo Zuleta	514394	https://br.whoscored.com/players/514394/show/mateo-zuleta
+Yeferson Rodallega	523264	https://br.whoscored.com/players/523264/show/yeferson-rodallega
+Gabriel Barros	450860	https://br.whoscored.com/players/450860/show/gabriel-barros
+João Ricardo	317791	https://br.whoscored.com/players/317791/show/jo%C3%A3o-ricardo
+Benjamín Kuscevic	406287	https://br.whoscored.com/players/406287/show/benjam%C3%ADn-kuscevic
+Tinga	146526	https://br.whoscored.com/players/146526/show/tinga
+Tomás Cardona	261477	https://br.whoscored.com/players/261477/show/tom%C3%A1s-cardona
+Emanuel Brítez	125232	https://br.whoscored.com/players/125232/show/emanuel-br%C3%ADtez
+Eros Mancuso	414213	https://br.whoscored.com/players/414213/show/eros-mancuso
+Marinho	284377	https://br.whoscored.com/players/284377/show/marinho
+Hércules	436640	https://br.whoscored.com/players/436640/show/h%C3%A9rcules
+Lucas Sasha	326607	https://br.whoscored.com/players/326607/show/lucas-sasha
+Moisés	436639	https://br.whoscored.com/players/436639/show/mois%C3%A9s
+Tomás Pochettino	299687	https://br.whoscored.com/players/299687/show/tom%C3%A1s-pochettino
+Felipe Jonatan	358143	https://br.whoscored.com/players/358143/show/felipe-jonatan
+Bruno Pacheco	337971	https://br.whoscored.com/players/337971/show/bruno-pacheco
+Emmanuel Martínez	277351	https://br.whoscored.com/players/277351/show/emmanuel-mart%C3%ADnez
+Breno Lopes	406285	https://br.whoscored.com/players/406285/show/breno-lopes
+Titi	27763	https://br.whoscored.com/players/27763/show/titi
+Matheus Rossetto	319406	https://br.whoscored.com/players/319406/show/matheus-rossetto
+Juan Lucero	303995	https://br.whoscored.com/players/303995/show/juan-lucero
+Pedro Augusto	380894	https://br.whoscored.com/players/380894/show/pedro-augusto
+Yago Pikachu	337884	https://br.whoscored.com/players/337884/show/yago-pikachu
+Imanol Machuca	404985	https://br.whoscored.com/players/404985/show/imanol-machuca
+Kervin Andrade	517832	https://br.whoscored.com/players/517832/show/kervin-andrade
+Zé Welison	146672	https://br.whoscored.com/players/146672/show/z%C3%A9-welison
+Kauan Rodrigues	474757	https://br.whoscored.com/players/474757/show/kauan-rodrigues
+Calebe	397568	https://br.whoscored.com/players/397568/show/calebe
+Braian Aguirre	404916	https://br.whoscored.com/players/404916/show/braian-aguirre
+Alexandro Bernabéi	386203	https://br.whoscored.com/players/386203/show/alexandro-bernab%C3%A9i
+Alan Patrick	74571	https://br.whoscored.com/players/74571/show/alan-patrick
+Wesley	397851	https://br.whoscored.com/players/397851/show/wesley
+Fabricio Bustos	328564	https://br.whoscored.com/players/328564/show/fabricio-bustos
+Renê	114105	https://br.whoscored.com/players/114105/show/ren%C3%AA
+Rafael Borré	145777	https://br.whoscored.com/players/145777/show/rafael-borr%C3%A9
+Fabrício	373656	https://br.whoscored.com/players/373656/show/fabr%C3%ADcio
+Bruno Tabata	342699	https://br.whoscored.com/players/342699/show/bruno-tabata
+Bruno Gomes	383128	https://br.whoscored.com/players/383128/show/bruno-gomes
+Vitão	397766	https://br.whoscored.com/players/397766/show/vit%C3%A3o
+Robert Renan	440058	https://br.whoscored.com/players/440058/show/robert-renan
+Thiago Maia	248121	https://br.whoscored.com/players/248121/show/thiago-maia
+Gabriel Carvalho	478208	https://br.whoscored.com/players/478208/show/gabriel-carvalho
+Agustín Rogel	334663	https://br.whoscored.com/players/334663/show/agust%C3%ADn-rogel
+Sergio Rochet	231141	https://br.whoscored.com/players/231141/show/sergio-rochet
+Rômulo	378823	https://br.whoscored.com/players/378823/show/r%C3%B4mulo
+Fernando	31958	https://br.whoscored.com/players/31958/show/fernando
+Bruno Henrique	132282	https://br.whoscored.com/players/132282/show/bruno-henrique
+Igor Gomes	458927	https://br.whoscored.com/players/458927/show/igor-gomes
+Gabriel Mercado	35689	https://br.whoscored.com/players/35689/show/gabriel-mercado
+Wanderson	295012	https://br.whoscored.com/players/295012/show/wanderson
+Hugo Mallo	79929	https://br.whoscored.com/players/79929/show/hugo-mallo
+Maurício	376914	https://br.whoscored.com/players/376914/show/maur%C3%ADcio
+Anthoni	416920	https://br.whoscored.com/players/416920/show/anthoni
+Clayton	527663	https://br.whoscored.com/players/527663/show/clayton
+Enner Valencia	83895	https://br.whoscored.com/players/83895/show/enner-valencia
+Gustavo Prado	478206	https://br.whoscored.com/players/478206/show/gustavo-prado
+Ricardo Mathias	478214	https://br.whoscored.com/players/478214/show/ricardo-mathias
+Lucca Drummond	531161	https://br.whoscored.com/players/531161/show/lucca-drummond
+Charles Aránguiz	25657	https://br.whoscored.com/players/25657/show/charles-ar%C3%A1nguiz
+Lucca	445573	https://br.whoscored.com/players/445573/show/lucca
+Lucas Alario	125654	https://br.whoscored.com/players/125654/show/lucas-alario
+Luis Otávio	521118	https://br.whoscored.com/players/521118/show/luis-ot%C3%A1vio
+Matheus Dias	441422	https://br.whoscored.com/players/441422/show/matheus-dias
+Hyoran	228262	https://br.whoscored.com/players/228262/show/hyoran
+Nathan	400993	https://br.whoscored.com/players/400993/show/nathan
+Luiz Henrique	397587	https://br.whoscored.com/players/397587/show/luiz-henrique
+Adryelson	279515	https://br.whoscored.com/players/279515/show/adryelson
+Jefferson Savarino	337817	https://br.whoscored.com/players/337817/show/jefferson-savarino
+Gregore	355710	https://br.whoscored.com/players/355710/show/gregore
+Alexander Barboza	303874	https://br.whoscored.com/players/303874/show/alexander-barboza
+Thiago Almada	361732	https://br.whoscored.com/players/361732/show/thiago-almada
+Jacob Montes	450139	https://br.whoscored.com/players/450139/show/jacob-montes
+Alex Telles	125793	https://br.whoscored.com/players/125793/show/alex-telles
+Mateo Ponte	484252	https://br.whoscored.com/players/484252/show/mateo-ponte
+Bastos	132688	https://br.whoscored.com/players/132688/show/bastos
+Marlon Freitas	318676	https://br.whoscored.com/players/318676/show/marlon-freitas
+Marçal	121718	https://br.whoscored.com/players/121718/show/mar%C3%A7al
+John	318689	https://br.whoscored.com/players/318689/show/john
+Igor Jesus	397497	https://br.whoscored.com/players/397497/show/igor-jesus
+Roberto Fernández	122266	https://br.whoscored.com/players/122266/show/roberto-fern%C3%A1ndez
+Pablo	91779	https://br.whoscored.com/players/91779/show/pablo
+Júnior Santos	373531	https://br.whoscored.com/players/373531/show/j%C3%BAnior-santos
+Danilo Barbosa	294056	https://br.whoscored.com/players/294056/show/danilo-barbosa
+Damián Suárez	83705	https://br.whoscored.com/players/83705/show/dami%C3%A1n-su%C3%A1rez
+Vitinho	349504	https://br.whoscored.com/players/349504/show/vitinho
+Jeffinho	440084	https://br.whoscored.com/players/440084/show/jeffinho
+Óscar Romero	135058	https://br.whoscored.com/players/135058/show/%C3%B3scar-romero
+Fabiano	478828	https://br.whoscored.com/players/478828/show/fabiano
+Lucas Halter	373938	https://br.whoscored.com/players/373938/show/lucas-halter
+Tiquinho Soares	322788	https://br.whoscored.com/players/322788/show/tiquinho-soares
+Matheus Martins	417514	https://br.whoscored.com/players/417514/show/matheus-martins
+Eduardo	121496	https://br.whoscored.com/players/121496/show/eduardo
+Hugo	399249	https://br.whoscored.com/players/399249/show/hugo
+Carlos Alberto	416915	https://br.whoscored.com/players/416915/show/carlos-alberto
+Tchê Tchê	317656	https://br.whoscored.com/players/317656/show/tch%C3%AA-tch%C3%AA
+Diego Hernández	477292	https://br.whoscored.com/players/477292/show/diego-hern%C3%A1ndez
+Allan	82438	https://br.whoscored.com/players/82438/show/allan
+Kauê	471626	https://br.whoscored.com/players/471626/show/kau%C3%AA
+Matheus Nascimento	397828	https://br.whoscored.com/players/397828/show/matheus-nascimento
+Yarlen	518043	https://br.whoscored.com/players/518043/show/yarlen
+Rafael	4092	https://br.whoscored.com/players/4092/show/rafael
+Raul	518488	https://br.whoscored.com/players/518488/show/raul
+William	243276	https://br.whoscored.com/players/243276/show/william
+Matheus Pereira	297389	https://br.whoscored.com/players/297389/show/matheus-pereira
+Kaiki	468000	https://br.whoscored.com/players/468000/show/kaiki
+João Marcelo	430082	https://br.whoscored.com/players/430082/show/jo%C3%A3o-marcelo
+Álvaro Barreal	363107	https://br.whoscored.com/players/363107/show/%C3%A1lvaro-barreal
+Helibelton Palacios	106466	https://br.whoscored.com/players/106466/show/helibelton-palacios
+Anderson	360109	https://br.whoscored.com/players/360109/show/anderson
+Matheus Henrique	348667	https://br.whoscored.com/players/348667/show/matheus-henrique
+Juan Dinenno	136088	https://br.whoscored.com/players/136088/show/juan-dinenno
+Zé Ivaldo	416910	https://br.whoscored.com/players/416910/show/z%C3%A9-ivaldo
+Lucas Romero	125297	https://br.whoscored.com/players/125297/show/lucas-romero
+Gabriel Veron	388685	https://br.whoscored.com/players/388685/show/gabriel-veron
+Arthur Gomes	329403	https://br.whoscored.com/players/329403/show/arthur-gomes
+Marlon	341745	https://br.whoscored.com/players/341745/show/marlon
+Lucas Villalba	126251	https://br.whoscored.com/players/126251/show/lucas-villalba
+Kaio Jorge	363936	https://br.whoscored.com/players/363936/show/kaio-jorge
+Rafa Silva	114599	https://br.whoscored.com/players/114599/show/rafa-silva
+Lucas Silva	115098	https://br.whoscored.com/players/115098/show/lucas-silva
+Fabrizio Peralta	448812	https://br.whoscored.com/players/448812/show/fabrizio-peralta
+Ramiro	131057	https://br.whoscored.com/players/131057/show/ramiro
+Jonathan	532719	https://br.whoscored.com/players/532719/show/jonathan
+Lautaro Díaz	446066	https://br.whoscored.com/players/446066/show/lautaro-d%C3%ADaz
+Walace	147923	https://br.whoscored.com/players/147923/show/walace
+Tevis Gabriel	521606	https://br.whoscored.com/players/521606/show/tevis-gabriel
+Mateus Vital	298869	https://br.whoscored.com/players/298869/show/mateus-vital
+Japa	472424	https://br.whoscored.com/players/472424/show/japa
+Rafael Elias	358068	https://br.whoscored.com/players/358068/show/rafael-elias
+João Pedro	495177	https://br.whoscored.com/players/495177/show/jo%C3%A3o-pedro
+Weverton	467999	https://br.whoscored.com/players/467999/show/weverton
+Robert	484203	https://br.whoscored.com/players/484203/show/robert
+Vitinho	516220	https://br.whoscored.com/players/516220/show/vitinho
+José Cifuentes	393145	https://br.whoscored.com/players/393145/show/jos%C3%A9-cifuentes
+Wesley Gasolina	386579	https://br.whoscored.com/players/386579/show/wesley-gasolina
+Kenji	521608	https://br.whoscored.com/players/521608/show/kenji
+Arthur Viana	521607	https://br.whoscored.com/players/521607/show/arthur-viana
+Jhosefer	468005	https://br.whoscored.com/players/468005/show/jhosefer
+Estêvão	510728	https://br.whoscored.com/players/510728/show/est%C3%AAv%C3%A3o
+Raphael Veiga	317677	https://br.whoscored.com/players/317677/show/raphael-veiga
+Gustavo Gómez	103383	https://br.whoscored.com/players/103383/show/gustavo-g%C3%B3mez
+Felipe Anderson	93026	https://br.whoscored.com/players/93026/show/felipe-anderson
+Richard Ríos	402213	https://br.whoscored.com/players/402213/show/richard-r%C3%ADos
+Kaiky Naves	429471	https://br.whoscored.com/players/429471/show/kaiky-naves
+Joaquín Piquerez	422035	https://br.whoscored.com/players/422035/show/joaqu%C3%ADn-piquerez
+Weverton	102023	https://br.whoscored.com/players/102023/show/weverton
+Murilo	339173	https://br.whoscored.com/players/339173/show/murilo
+Luis Guilherme	478319	https://br.whoscored.com/players/478319/show/luis-guilherme
+Marcos Rocha	74447	https://br.whoscored.com/players/74447/show/marcos-rocha
+José López	408110	https://br.whoscored.com/players/408110/show/jos%C3%A9-l%C3%B3pez
+Vitor Reis	478314	https://br.whoscored.com/players/478314/show/vitor-reis
+Aníbal Moreno	370389	https://br.whoscored.com/players/370389/show/an%C3%ADbal-moreno
+Mayke	130563	https://br.whoscored.com/players/130563/show/mayke
+Agustín Giay	437269	https://br.whoscored.com/players/437269/show/agust%C3%ADn-giay
+Jhon Jhon	429475	https://br.whoscored.com/players/429475/show/jhon-jhon
+Rony	363104	https://br.whoscored.com/players/363104/show/rony
+Luan	119540	https://br.whoscored.com/players/119540/show/luan
+Caio Paulista	374916	https://br.whoscored.com/players/374916/show/caio-paulista
+Gabriel Menino	397847	https://br.whoscored.com/players/397847/show/gabriel-menino
+Zé Rafael	17476	https://br.whoscored.com/players/17476/show/z%C3%A9-rafael
+Vanderlan	406718	https://br.whoscored.com/players/406718/show/vanderlan
+Lázaro	402214	https://br.whoscored.com/players/402214/show/l%C3%A1zaro
+Endrick	445649	https://br.whoscored.com/players/445649/show/endrick
+Luighi Hanri	515806	https://br.whoscored.com/players/515806/show/luighi-hanri
+Dudu	75752	https://br.whoscored.com/players/75752/show/dudu
+Fabinho	417540	https://br.whoscored.com/players/417540/show/fabinho
+Rômulo	521715	https://br.whoscored.com/players/521715/show/r%C3%B4mulo
+Gustavo Garcia	416887	https://br.whoscored.com/players/416887/show/gustavo-garcia
+Marcelo Lomba	63830	https://br.whoscored.com/players/63830/show/marcelo-lomba
+Bento	397493	https://br.whoscored.com/players/397493/show/bento
+Lucas Esquivel	404979	https://br.whoscored.com/players/404979/show/lucas-esquivel
+Lucas Belezi	419458	https://br.whoscored.com/players/419458/show/lucas-belezi
+Tomás Cuello	336102	https://br.whoscored.com/players/336102/show/tom%C3%A1s-cuello
+Nikão	93064	https://br.whoscored.com/players/93064/show/nik%C3%A3o
+Kaique Rocha	366432	https://br.whoscored.com/players/366432/show/kaique-rocha
+Julimar	410684	https://br.whoscored.com/players/410684/show/julimar
+Mycael	445158	https://br.whoscored.com/players/445158/show/mycael
+Erick	373515	https://br.whoscored.com/players/373515/show/erick
+Felipinho	517830	https://br.whoscored.com/players/517830/show/felipinho
+Fernandinho	19119	https://br.whoscored.com/players/19119/show/fernandinho
+Thiago Heleno	20938	https://br.whoscored.com/players/20938/show/thiago-heleno
+Gabriel	114095	https://br.whoscored.com/players/114095/show/gabriel
+Agustín Canobbio	436657	https://br.whoscored.com/players/436657/show/agust%C3%ADn-canobbio
+Mateo Gamarra	446331	https://br.whoscored.com/players/446331/show/mateo-gamarra
+Bruno Zapelli	462994	https://br.whoscored.com/players/462994/show/bruno-zapelli
+Madson	114194	https://br.whoscored.com/players/114194/show/madson
+Pablo	107182	https://br.whoscored.com/players/107182/show/pablo
+Gonzalo Mastriani	106118	https://br.whoscored.com/players/106118/show/gonzalo-mastriani
+João Cruz	478179	https://br.whoscored.com/players/478179/show/jo%C3%A3o-cruz
+Léo Linck	419450	https://br.whoscored.com/players/419450/show/l%C3%A9o-linck
+Leonardo Godoy	144146	https://br.whoscored.com/players/144146/show/leonardo-godoy
+Christian	397491	https://br.whoscored.com/players/397491/show/christian
+Fernando	472107	https://br.whoscored.com/players/472107/show/fernando
+Emersonn	429556	https://br.whoscored.com/players/429556/show/emersonn
+Lucas Di Yorio	315587	https://br.whoscored.com/players/315587/show/lucas-di-yorio
+Zé Vitor	523466	https://br.whoscored.com/players/523466/show/z%C3%A9-vitor
+Kayke Santos	530481	https://br.whoscored.com/players/530481/show/kayke-santos
+Léo Realpe	397571	https://br.whoscored.com/players/397571/show/l%C3%A9o-realpe
+Helinho	355777	https://br.whoscored.com/players/355777/show/helinho
+Juninho Capixaba	337900	https://br.whoscored.com/players/337900/show/juninho-capixaba
+Cleiton	320158	https://br.whoscored.com/players/320158/show/cleiton
+Eduardo Sasha	92032	https://br.whoscored.com/players/92032/show/eduardo-sasha
+Matheus Fernandes	349707	https://br.whoscored.com/players/349707/show/matheus-fernandes
+Andrés Hurtado	418751	https://br.whoscored.com/players/418751/show/andr%C3%A9s-hurtado
+Lucas Evangelista	131079	https://br.whoscored.com/players/131079/show/lucas-evangelista
+Eduardo Santos	444209	https://br.whoscored.com/players/444209/show/eduardo-santos
+Douglas Mendes	454770	https://br.whoscored.com/players/454770/show/douglas-mendes
+Pedro Henrique	149561	https://br.whoscored.com/players/149561/show/pedro-henrique
+Luan Cândido	364161	https://br.whoscored.com/players/364161/show/luan-c%C3%A2ndido
+Henry Mosquera	479727	https://br.whoscored.com/players/479727/show/henry-mosquera
+Lincoln	279478	https://br.whoscored.com/players/279478/show/lincoln
+Vinicinho	523713	https://br.whoscored.com/players/523713/show/vinicinho
+Lucão	382650	https://br.whoscored.com/players/382650/show/luc%C3%A3o
+Vitinho	373666	https://br.whoscored.com/players/373666/show/vitinho
+Bruninho	417443	https://br.whoscored.com/players/417443/show/bruninho
+Nathan Mendes	439642	https://br.whoscored.com/players/439642/show/nathan-mendes
+Guilherme	409122	https://br.whoscored.com/players/409122/show/guilherme
+Jadsom	366498	https://br.whoscored.com/players/366498/show/jadsom
+Gustavinho	471637	https://br.whoscored.com/players/471637/show/gustavinho
+Eric Ramires	363129	https://br.whoscored.com/players/363129/show/eric-ramires
+Lucas Cunha	334129	https://br.whoscored.com/players/334129/show/lucas-cunha
+Raul	358737	https://br.whoscored.com/players/358737/show/raul
+Fabrício	443085	https://br.whoscored.com/players/443085/show/fabr%C3%ADcio
+Ignacio Laquintana	446380	https://br.whoscored.com/players/446380/show/ignacio-laquintana
+Thiago Borbas	460759	https://br.whoscored.com/players/460759/show/thiago-borbas
+Talisson	471636	https://br.whoscored.com/players/471636/show/talisson
+Ivan Cavaleiro	137386	https://br.whoscored.com/players/137386/show/ivan-cavaleiro
+Riquelme	518067	https://br.whoscored.com/players/518067/show/riquelme
+Sergio Palacios	540228	https://br.whoscored.com/players/540228/show/sergio-palacios
+Chumbinho	478831	https://br.whoscored.com/players/478831/show/chumbinho
+Juliano	533668	https://br.whoscored.com/players/533668/show/juliano
+Vitinho Mota	538029	https://br.whoscored.com/players/538029/show/vitinho-mota
+Everton	445691	https://br.whoscored.com/players/445691/show/everton
+Jhon Arias	424039	https://br.whoscored.com/players/424039/show/jhon-arias
+Thiago Silva	28550	https://br.whoscored.com/players/28550/show/thiago-silva
+Vitor Eudes	358738	https://br.whoscored.com/players/358738/show/vitor-eudes
+Kevin Serna	519613	https://br.whoscored.com/players/519613/show/kevin-serna
+André	397585	https://br.whoscored.com/players/397585/show/andr%C3%A9
+Antônio Carlos	114164	https://br.whoscored.com/players/114164/show/ant%C3%B4nio-carlos
+Fábio	27490	https://br.whoscored.com/players/27490/show/f%C3%A1bio
+Thiago Santos	295008	https://br.whoscored.com/players/295008/show/thiago-santos
+Ganso	40237	https://br.whoscored.com/players/40237/show/ganso
+Ignácio	364317	https://br.whoscored.com/players/364317/show/ign%C3%A1cio
+Samuel Xavier	280413	https://br.whoscored.com/players/280413/show/samuel-xavier
+Marcelo	20241	https://br.whoscored.com/players/20241/show/marcelo
+Facundo Bernal	512611	https://br.whoscored.com/players/512611/show/facundo-bernal
+Marquinhos	419077	https://br.whoscored.com/players/419077/show/marquinhos
+Martinelli	401192	https://br.whoscored.com/players/401192/show/martinelli
+Lima	321846	https://br.whoscored.com/players/321846/show/lima
+Keno	284602	https://br.whoscored.com/players/284602/show/keno
+Kauã Elias	478297	https://br.whoscored.com/players/478297/show/kau%C3%A3-elias
+Diogo Barbosa	93433	https://br.whoscored.com/players/93433/show/diogo-barbosa
+Douglas Costa	68889	https://br.whoscored.com/players/68889/show/douglas-costa
+Alexsander	443546	https://br.whoscored.com/players/443546/show/alexsander
+Nonato	360451	https://br.whoscored.com/players/360451/show/nonato
+Gabriel Pires	120103	https://br.whoscored.com/players/120103/show/gabriel-pires
+Marlon	131382	https://br.whoscored.com/players/131382/show/marlon
+Manoel	75550	https://br.whoscored.com/players/75550/show/manoel
+Felipe Melo	13551	https://br.whoscored.com/players/13551/show/felipe-melo
+Esquerdinha	478291	https://br.whoscored.com/players/478291/show/esquerdinha
+Gabriel Fuentes	448705	https://br.whoscored.com/players/448705/show/gabriel-fuentes
+Germán Cano	397899	https://br.whoscored.com/players/397899/show/germ%C3%A1n-cano
+Guga	373432	https://br.whoscored.com/players/373432/show/guga
+Felipe Andrade	476465	https://br.whoscored.com/players/476465/show/felipe-andrade
+Isaac	472112	https://br.whoscored.com/players/472112/show/isaac
+Renato Augusto	25716	https://br.whoscored.com/players/25716/show/renato-augusto
+Calegari	378634	https://br.whoscored.com/players/378634/show/calegari
+David Terans	360050	https://br.whoscored.com/players/360050/show/david-terans
+Victor Hugo	539740	https://br.whoscored.com/players/539740/show/victor-hugo
+John Kennedy	409247	https://br.whoscored.com/players/409247/show/john-kennedy
+Isaque	521087	https://br.whoscored.com/players/521087/show/isaque
+Jan Lucumí	517831	https://br.whoscored.com/players/517831/show/jan-lucum%C3%AD
+Ramon	397843	https://br.whoscored.com/players/397843/show/ramon
+Walter	130462	https://br.whoscored.com/players/130462/show/walter
+Marllon	337888	https://br.whoscored.com/players/337888/show/marllon
+Fernando Sobral	373502	https://br.whoscored.com/players/373502/show/fernando-sobral
+Matheus Alexandre	418965	https://br.whoscored.com/players/418965/show/matheus-alexandre
+Denilson	444815	https://br.whoscored.com/players/444815/show/denilson
+Bruno Alves	101478	https://br.whoscored.com/players/101478/show/bruno-alves
+Isidro Pitta	436763	https://br.whoscored.com/players/436763/show/isidro-pitta
+Alan Empereur	141538	https://br.whoscored.com/players/141538/show/alan-empereur
+Derik Lacerda	407306	https://br.whoscored.com/players/407306/show/derik-lacerda
+Max	417706	https://br.whoscored.com/players/417706/show/max
+Railan	514432	https://br.whoscored.com/players/514432/show/railan
+Lucas Mineiro	318252	https://br.whoscored.com/players/318252/show/lucas-mineiro
+Lucas Fernandes	317741	https://br.whoscored.com/players/317741/show/lucas-fernandes
+Clayson	295190	https://br.whoscored.com/players/295190/show/clayson
+Mateus Pasinato	380780	https://br.whoscored.com/players/380780/show/mateus-pasinato
+Gustavo Sauer	295756	https://br.whoscored.com/players/295756/show/gustavo-sauer
+Jonathan Cafú	279520	https://br.whoscored.com/players/279520/show/jonathan-caf%C3%BA
+Rikelme	445455	https://br.whoscored.com/players/445455/show/rikelme
+Filipe Augusto	121771	https://br.whoscored.com/players/121771/show/filipe-augusto
+Guilherme Madruga	514395	https://br.whoscored.com/players/514395/show/guilherme-madruga
+Gabriel	514431	https://br.whoscored.com/players/514431/show/gabriel
+Eliel	514396	https://br.whoscored.com/players/514396/show/eliel
+André Luís	284655	https://br.whoscored.com/players/284655/show/andr%C3%A9-lu%C3%ADs
+Jadson	476160	https://br.whoscored.com/players/476160/show/jadson
+Dudu	521621	https://br.whoscored.com/players/521621/show/dudu
+David	544684	https://br.whoscored.com/players/544684/show/david
+Kauan	521627	https://br.whoscored.com/players/521627/show/kauan
+Juan Tavares	437728	https://br.whoscored.com/players/437728/show/juan-tavares
+Allyson	444922	https://br.whoscored.com/players/444922/show/allyson
+Luciano Giménez	513385	https://br.whoscored.com/players/513385/show/luciano-gim%C3%A9nez

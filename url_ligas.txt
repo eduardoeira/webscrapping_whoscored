@@ -1,0 +1,115 @@
+País	ID	URL
+248	290	https://br.whoscored.com//regions/248/tournaments/290/afrika-caf-champions-league
+Albânia	182	https://br.whoscored.com//regions/3/tournaments/182/albânia-kategoria-superiore
+Argélia	281	https://br.whoscored.com//regions/4/tournaments/281/argélia-ligue-professionnelle-1
+Andorra	619	https://br.whoscored.com//regions/6/tournaments/619/andorra-andorran-cup
+Argentina	68	https://br.whoscored.com//regions/11/tournaments/68/argentina-liga-profesional
+Armênia	256	https://br.whoscored.com//regions/12/tournaments/256/armênia-cup
+Ásia	287	https://br.whoscored.com//regions/249/tournaments/287/ásia-afc-champions-league
+Austrália	194	https://br.whoscored.com//regions/14/tournaments/194/austrália-a-league
+Áustria	53	https://br.whoscored.com//regions/15/tournaments/53/áustria-erste-liga
+Azerbaijão	173	https://br.whoscored.com//regions/16/tournaments/173/azerbaijão-premier-league
+Bahrein	302	https://br.whoscored.com//regions/18/tournaments/302/bahrein-1-division
+Belarus	157	https://br.whoscored.com//regions/21/tournaments/157/belarus-premier-league
+Bélgica	28	https://br.whoscored.com//regions/22/tournaments/28/bélgica-cup
+Bolívia	255	https://br.whoscored.com//regions/27/tournaments/255/bolívia-liga-de-fútbol-profesional
+Bósnia-Herzegovina	404	https://br.whoscored.com//regions/28/tournaments/404/bósnia-herzegovina-1-division
+Brasil	95	https://br.whoscored.com//regions/31/tournaments/95/brasil-brasileirão
+Bulgária	119	https://br.whoscored.com//regions/34/tournaments/119/bulgária-a-pfg
+Camarões	247	https://br.whoscored.com//regions/38/tournaments/247/camarões-1-division
+Canadá	735	https://br.whoscored.com//regions/39/tournaments/735/canadá-championship
+Chile	147	https://br.whoscored.com//regions/44/tournaments/147/chile-clausura
+China	162	https://br.whoscored.com//regions/45/tournaments/162/china-super-league
+Colômbia	193	https://br.whoscored.com//regions/48/tournaments/193/colômbia-categoria-primera-a
+Costa Rica	425	https://br.whoscored.com//regions/53/tournaments/425/costa-rica-liga-de-ascenso
+Croácia	401	https://br.whoscored.com//regions/55/tournaments/401/croácia-2-division
+Chipre	402	https://br.whoscored.com//regions/57/tournaments/402/chipre-2-division
+República Tcheca	84	https://br.whoscored.com//regions/58/tournaments/84/república-tcheca-cup
+Dinamarca	34	https://br.whoscored.com//regions/59/tournaments/34/dinamarca-1-division
+Equador	192	https://br.whoscored.com//regions/63/tournaments/192/equador-serie-a
+Egito	277	https://br.whoscored.com//regions/64/tournaments/277/egito-premier-league
+El Salvador	250	https://br.whoscored.com//regions/65/tournaments/250/el-salvador-primera-division
+Inglaterra	9	https://br.whoscored.com//regions/252/tournaments/9/inglaterra-league-two
+Estônia	621	https://br.whoscored.com//regions/68/tournaments/621/estônia-cup
+Europa	62	https://br.whoscored.com//regions/250/tournaments/62/europa-uefa-super-cup
+Ilhas Faroe	622	https://br.whoscored.com//regions/71/tournaments/622/ilhas-faroe-cup
+Finlândia	51	https://br.whoscored.com//regions/73/tournaments/51/finlândia-cup
+França	54	https://br.whoscored.com//regions/74/tournaments/54/frança-trophée-des-champions
+Geórgia	623	https://br.whoscored.com//regions/80/tournaments/623/geórgia-cup
+Alemanha	6	https://br.whoscored.com//regions/81/tournaments/6/alemanha-2-bundesliga
+Gana	305	https://br.whoscored.com//regions/82/tournaments/305/gana-premier-league
+Gibraltar	633	https://br.whoscored.com//regions/83/tournaments/633/gibraltar-gibraltar-cup
+Grécia	69	https://br.whoscored.com//regions/84/tournaments/69/grécia-cup
+Guatemala	239	https://br.whoscored.com//regions/89/tournaments/239/guatemala-liga-nacional
+Honduras	240	https://br.whoscored.com//regions/97/tournaments/240/honduras-liga-nacional
+Hong Kong	332	https://br.whoscored.com//regions/98/tournaments/332/hong-kong-1-division
+Hungria	102	https://br.whoscored.com//regions/99/tournaments/102/hungria-cup
+Islândia	208	https://br.whoscored.com//regions/100/tournaments/208/islândia-1-deild
+Índia	333	https://br.whoscored.com//regions/101/tournaments/333/índia-i-league
+Indonésia	334	https://br.whoscored.com//regions/102/tournaments/334/indonésia-super-liga
+Internacional	656	https://br.whoscored.com//regions/247/tournaments/656/internacional-africa-cup-of-nations-u20
+Irã	587	https://br.whoscored.com//regions/103/tournaments/587/irã-hazfi-cup
+Iraque	384	https://br.whoscored.com//regions/104/tournaments/384/iraque-super-league
+Irlanda	116	https://br.whoscored.com//regions/105/tournaments/116/irlanda-fai-cup
+Israel	181	https://br.whoscored.com//regions/107/tournaments/181/israel-liga-leumit
+Itália	60	https://br.whoscored.com//regions/108/tournaments/60/itália-coppa-italia
+Jamaica	366	https://br.whoscored.com//regions/109/tournaments/366/jamaica-premier-league
+Japão	358	https://br.whoscored.com//regions/110/tournaments/358/japão-cup
+Jordânia	284	https://br.whoscored.com//regions/112/tournaments/284/jordânia-1-division
+Cazaquistão	614	https://br.whoscored.com//regions/113/tournaments/614/cazaquistão-cup
+Quênia	355	https://br.whoscored.com//regions/114/tournaments/355/quênia-premier-league
+Kuwait	293	https://br.whoscored.com//regions/118/tournaments/293/kuwait-1-division
+Letônia	624	https://br.whoscored.com//regions/121/tournaments/624/letônia-super-cup
+Lituânia	159	https://br.whoscored.com//regions/127/tournaments/159/lituânia-a-lyga
+Luxemburgo	172	https://br.whoscored.com//regions/128/tournaments/172/luxemburgo-1-division
+Macedônia	627	https://br.whoscored.com//regions/130/tournaments/627/macedônia-cup
+Malásia	609	https://br.whoscored.com//regions/133/tournaments/609/malásia-premier-league
+Malta	410	https://br.whoscored.com//regions/136/tournaments/410/malta-1-division
+México	532	https://br.whoscored.com//regions/142/tournaments/532/méxico-copa-mx
+Moldávia	629	https://br.whoscored.com//regions/144/tournaments/629/moldávia-cup
+Montenegro	235	https://br.whoscored.com//regions/147/tournaments/235/montenegro-1-division
+Marrocos	291	https://br.whoscored.com//regions/149/tournaments/291/marrocos-botola-pro
+Países Baixos	120	https://br.whoscored.com//regions/155/tournaments/120/países-baixos-dutch-super-cup
+Nova Zelândia	303	https://br.whoscored.com//regions/158/tournaments/303/nova-zelândia-premier-league
+Nigéria	294	https://br.whoscored.com//regions/161/tournaments/294/nigéria-1-division
+264	222	https://br.whoscored.com//regions/264/tournaments/222/kuzey-ve-orta-amerika-concacaf-champions-cup
+Irlanda do Norte	446	https://br.whoscored.com//regions/258/tournaments/446/irlanda-do-norte-championship
+Noruega	41	https://br.whoscored.com//regions/165/tournaments/41/noruega-eliteserien
+Omã	304	https://br.whoscored.com//regions/166/tournaments/304/omã-professional-league
+Paraguai	422	https://br.whoscored.com//regions/172/tournaments/422/paraguai-division-intermedia
+Peru	687	https://br.whoscored.com//regions/173/tournaments/687/peru-copa-peru
+Polônia	101	https://br.whoscored.com//regions/176/tournaments/101/polônia-cup
+Portugal	122	https://br.whoscored.com//regions/177/tournaments/122/portugal-super-cup
+Qatar	285	https://br.whoscored.com//regions/179/tournaments/285/qatar-stars-league
+Romênia	145	https://br.whoscored.com//regions/181/tournaments/145/romênia-cup
+Rússia	111	https://br.whoscored.com//regions/182/tournaments/111/rússia-cup
+San Marino	331	https://br.whoscored.com//regions/192/tournaments/331/san-marino-campionato
+Arábia Saudita	282	https://br.whoscored.com//regions/194/tournaments/282/arábia-saudita-pro-league
+Escócia	10	https://br.whoscored.com//regions/253/tournaments/10/escócia-fa-cup
+Sérvia	112	https://br.whoscored.com//regions/196/tournaments/112/sérvia-cup
+Cingapura	443	https://br.whoscored.com//regions/199/tournaments/443/cingapura-cup
+Eslováquia	323	https://br.whoscored.com//regions/200/tournaments/323/eslováquia-2-liga
+Eslovênia	417	https://br.whoscored.com//regions/201/tournaments/417/eslovênia-2-division
+África do Sul	579	https://br.whoscored.com//regions/204/tournaments/579/áfrica-do-sul-cup
+265	271	https://br.whoscored.com//regions/265/tournaments/271/güney-amerika-recopa-sudamericana
+Coreia do Sul	641	https://br.whoscored.com//regions/260/tournaments/641/coreia-do-sul-cup
+Espanha	14	https://br.whoscored.com//regions/206/tournaments/14/espanha-copa-del-rey
+Suécia	40	https://br.whoscored.com//regions/212/tournaments/40/suécia-allsvenskan
+Suíça	55	https://br.whoscored.com//regions/213/tournaments/55/suíça-challenge-league
+Síria	296	https://br.whoscored.com//regions/214/tournaments/296/síria-1-division
+Taiwan	337	https://br.whoscored.com//regions/215/tournaments/337/taiwan-division-a
+Tanzânia	382	https://br.whoscored.com//regions/217/tournaments/382/tanzânia-premier-league
+Tailândia	335	https://br.whoscored.com//regions/218/tournaments/335/tailândia-thai-league
+Tunísia	276	https://br.whoscored.com//regions/224/tournaments/276/tunísia-ligue-1
+Turquia	44	https://br.whoscored.com//regions/225/tournaments/44/turquia-cup
+U.A.E.	295	https://br.whoscored.com//regions/231/tournaments/295/u-a-e-pro-league
+Uganda	371	https://br.whoscored.com//regions/229/tournaments/371/uganda-super-league
+Ucrânia	125	https://br.whoscored.com//regions/230/tournaments/125/ucrânia-cup
+Uruguai	196	https://br.whoscored.com//regions/235/tournaments/196/uruguai-primera-division
+EUA	85	https://br.whoscored.com//regions/233/tournaments/85/eua-major-league-soccer
+Uzbequistão	251	https://br.whoscored.com//regions/236/tournaments/251/uzbequistão-uzbek-league
+Venezuela	237	https://br.whoscored.com//regions/238/tournaments/237/venezuela-primera-division
+Vietnã	392	https://br.whoscored.com//regions/239/tournaments/392/vietnã-v-league-1
+País de Gales	138	https://br.whoscored.com//regions/254/tournaments/138/país-de-gales-premier-league
+Zâmbia	252	https://br.whoscored.com//regions/245/tournaments/252/zâmbia-1-division
+Zimbábue	253	https://br.whoscored.com//regions/246/tournaments/253/zimbábue-1-division
